@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 799881aadc069f04c8a3c703a052bb7e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298957
+  packageName: Editor Emojis
+  packageVersion: 1.0
+  assetPath: Assets/Editor Emojis/Editor/Editor Emojis.asmdef
+  uploadId: 700264

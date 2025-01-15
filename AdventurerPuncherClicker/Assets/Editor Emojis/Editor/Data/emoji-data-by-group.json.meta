@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b0e5f81cf285044e8f58955efafe913
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298957
+  packageName: Editor Emojis
+  packageVersion: 1.0
+  assetPath: Assets/Editor Emojis/Editor/Data/emoji-data-by-group.json
+  uploadId: 700264

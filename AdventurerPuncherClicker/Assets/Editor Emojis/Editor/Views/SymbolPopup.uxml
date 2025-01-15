@@ -1,0 +1,65 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor%20Emojis/Editor/Views/SymbolPopup.uss?fileID=7433441132597879392&amp;guid=bee5770244ec97640a2fcbaacdfb2ab5&amp;type=3#SymbolPopup" />
+    <ui:VisualElement name="body" style="width: 100%; height: 100%;">
+        <ui:GroupBox name="TopBar" style="flex-direction: row; flex-grow: 0; height: 30px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 7px; padding-right: 7px; padding-top: 2px; padding-bottom: 0; align-items: center;">
+            <ui:Button text="Emojis" display-tooltip-when-elided="true" name="emoji-tab" class="tab-button" />
+            <ui:Button text="Icons" display-tooltip-when-elided="true" name="icon-tab" class="tab-button" />
+            <ui:VisualElement style="flex-grow: 1;" />
+            <ui:Button text="Remove" display-tooltip-when-elided="true" name="remove-button" class="tab-button" style="white-space: nowrap; align-items: auto; justify-content: flex-start; display: none;" />
+            <ui:Button display-tooltip-when-elided="true" name="settings-button" class="tab-button">
+                <ui:VisualElement style="background-image: url(&apos;project://database/Assets/Editor%20Emojis/Icon%20Images/settings.png?fileID=2800000&amp;guid=d26c08ddd83dc7643a78bb2f5674e508&amp;type=3#settings&apos;); width: 16px; height: 16px; -unity-background-image-tint-color: rgba(255, 255, 255, 0.35);" />
+            </ui:Button>
+        </ui:GroupBox>
+        <ui:VisualElement class="divider" />
+        <ui:VisualElement name="search-bar-container" class="search-bar-container">
+            <uie:ToolbarSearchField focusable="true" name="search-field" class="search-bar" style="flex-shrink: 1;" />
+            <ui:Button display-tooltip-when-elided="true" name="random-button" class="random-button color-picker-button search-button">
+                <ui:VisualElement style="background-image: url(&apos;project://database/Assets/Editor%20Emojis/Editor/EditorWindow/shuffle_icon.png?fileID=2800000&amp;guid=901354fc4e4d81645b4da2d00f562ef6&amp;type=3#shuffle_icon&apos;); width: 12px; height: 12px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5);" />
+            </ui:Button>
+            <ui:Button display-tooltip-when-elided="true" name="color-picker-button" class="color-picker-button search-button">
+                <ui:VisualElement name="color-picker-button-icon" style="background-image: none; width: 10px; height: 10px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5); background-color: rgb(229, 229, 229); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;" />
+            </ui:Button>
+        </ui:VisualElement>
+        <ui:ListView style="height: 197px;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="color-picker-container" class="color-picker-popup">
+        <ui:VisualElement class="color-picker-row">
+            <ui:Button display-tooltip-when-elided="true" name="color-select-button-0" class="color-select-button">
+                <ui:VisualElement style="background-image: none; width: 10px; height: 10px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5); background-color: rgb(229, 229, 229); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;" />
+            </ui:Button>
+            <ui:Button display-tooltip-when-elided="true" name="color-select-button-1" class="color-select-button">
+                <ui:VisualElement class="color-select-button-icon" style="background-color: rgb(125, 125, 125);" />
+            </ui:Button>
+            <ui:Button display-tooltip-when-elided="true" name="color-select-button-2" class="color-select-button">
+                <ui:VisualElement style="background-image: none; width: 10px; height: 10px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5); background-color: rgb(17, 17, 17); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;" />
+            </ui:Button>
+            <ui:Button display-tooltip-when-elided="true" name="color-select-button-3" class="color-select-button">
+                <ui:VisualElement style="background-image: none; width: 10px; height: 10px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5); background-color: rgb(127, 214, 253); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;" />
+            </ui:Button>
+            <ui:Button display-tooltip-when-elided="true" name="color-select-button-4" class="color-select-button">
+                <ui:VisualElement style="background-image: none; width: 10px; height: 10px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5); background-color: rgb(177, 253, 89); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;" />
+            </ui:Button>
+        </ui:VisualElement>
+        <ui:VisualElement class="color-picker-row" style="flex-direction: row; flex-grow: 1;">
+            <ui:Button display-tooltip-when-elided="true" name="color-select-button-5" class="color-select-button">
+                <ui:VisualElement style="background-image: none; width: 10px; height: 10px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5); background-color: rgb(45, 142, 94); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;" />
+            </ui:Button>
+            <ui:Button display-tooltip-when-elided="true" name="color-select-button-6" class="color-select-button">
+                <ui:VisualElement style="background-image: none; width: 10px; height: 10px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5); background-color: rgb(45, 116, 192); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;" />
+            </ui:Button>
+            <ui:Button display-tooltip-when-elided="true" name="color-select-button-7" class="color-select-button">
+                <ui:VisualElement style="background-image: none; width: 10px; height: 10px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5); background-color: rgb(131, 86, 178); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;" />
+            </ui:Button>
+            <ui:Button display-tooltip-when-elided="true" name="color-select-button-8" class="color-select-button">
+                <ui:VisualElement style="background-image: none; width: 10px; height: 10px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5); background-color: rgb(185, 62, 113); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;" />
+            </ui:Button>
+            <ui:Button display-tooltip-when-elided="true" name="color-select-button-9" class="color-select-button">
+                <ui:VisualElement style="background-image: none; width: 10px; height: 10px; -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgba(255, 255, 255, 0.5); background-color: rgb(189, 70, 66); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;" />
+            </ui:Button>
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="settings-container" class="settings-container" style="display: none;">
+        <ui:Toggle label="Show Icons in Hierarchy" tooltip="Toggle rendering icons in the hierarchy. Can be disabled so it doesn&apos;t interfere with other plugins." name="show-icons-toggle" class="settings-toggle" />
+        <ui:Toggle label="Select Icons in Hierarchy" tooltip="Toggles whether the icon can be changed by clicking it in the heirachy. Some people might find it interferes when selecting objects." name="change-icons-toggle" class="settings-toggle" />
+    </ui:VisualElement>
+</ui:UXML>

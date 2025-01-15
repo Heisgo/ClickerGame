@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0e92c0fac50941ae872faeeaabb1f0e4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298957
+  packageName: Editor Emojis
+  packageVersion: 1.0
+  assetPath: Assets/Editor Emojis/Editor/Views/SymbolPopupDark.uss
+  uploadId: 700264

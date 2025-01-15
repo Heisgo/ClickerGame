@@ -1,0 +1,6162 @@
+{
+    "groups": [{
+    "name": "Action",
+    "icons": [
+        {
+            "name": "3D Rotation",
+            "imagename": "3d_rotation"
+        },
+        {
+            "name": "Accessibility",
+            "imagename": "accessibility"
+        },
+        {
+            "name": "Accessibility New",
+            "imagename": "accessibility_new"
+        },
+        {
+            "name": "Accessible",
+            "imagename": "accessible"
+        },
+        {
+            "name": "Accessible Forward",
+            "imagename": "accessible_forward"
+        },
+        {
+            "name": "Account Balance",
+            "imagename": "account_balance"
+        },
+        {
+            "name": "Account Balance Wallet",
+            "imagename": "account_balance_wallet"
+        },
+        {
+            "name": "Account Box",
+            "imagename": "account_box"
+        },
+        {
+            "name": "Account Circle",
+            "imagename": "account_circle"
+        },
+        {
+            "name": "Addchart",
+            "imagename": "addchart"
+        },
+        {
+            "name": "Add Shopping Cart",
+            "imagename": "add_shopping_cart"
+        },
+        {
+            "name": "Add Task",
+            "imagename": "add_task"
+        },
+        {
+            "name": "Add To Drive",
+            "imagename": "add_to_drive"
+        },
+        {
+            "name": "Admin Panel Settings",
+            "imagename": "admin_panel_settings"
+        },
+        {
+            "name": "Alarm",
+            "imagename": "alarm"
+        },
+        {
+            "name": "Alarm Add",
+            "imagename": "alarm_add"
+        },
+        {
+            "name": "Alarm Off",
+            "imagename": "alarm_off"
+        },
+        {
+            "name": "Alarm On",
+            "imagename": "alarm_on"
+        },
+        {
+            "name": "All Inbox",
+            "imagename": "all_inbox"
+        },
+        {
+            "name": "All Out",
+            "imagename": "all_out"
+        },
+        {
+            "name": "Analytics",
+            "imagename": "analytics"
+        },
+        {
+            "name": "Anchor",
+            "imagename": "anchor"
+        },
+        {
+            "name": "Android",
+            "imagename": "android"
+        },
+        {
+            "name": "Announcement",
+            "imagename": "announcement"
+        },
+        {
+            "name": "Api",
+            "imagename": "api"
+        },
+        {
+            "name": "App Blocking",
+            "imagename": "app_blocking"
+        },
+        {
+            "name": "Arrow Circle Down",
+            "imagename": "arrow_circle_down"
+        },
+        {
+            "name": "Arrow Circle Up",
+            "imagename": "arrow_circle_up"
+        },
+        {
+            "name": "Arrow Right Alt",
+            "imagename": "arrow_right_alt"
+        },
+        {
+            "name": "Article",
+            "imagename": "article"
+        },
+        {
+            "name": "Aspect Ratio",
+            "imagename": "aspect_ratio"
+        },
+        {
+            "name": "Assessment",
+            "imagename": "assessment"
+        },
+        {
+            "name": "Assignment",
+            "imagename": "assignment"
+        },
+        {
+            "name": "Assignment Ind",
+            "imagename": "assignment_ind"
+        },
+        {
+            "name": "Assignment Late",
+            "imagename": "assignment_late"
+        },
+        {
+            "name": "Assignment Return",
+            "imagename": "assignment_return"
+        },
+        {
+            "name": "Assignment Returned",
+            "imagename": "assignment_returned"
+        },
+        {
+            "name": "Assignment Turned In",
+            "imagename": "assignment_turned_in"
+        },
+        {
+            "name": "Autorenew",
+            "imagename": "autorenew"
+        },
+        {
+            "name": "Backup",
+            "imagename": "backup"
+        },
+        {
+            "name": "Backup Table",
+            "imagename": "backup_table"
+        },
+        {
+            "name": "Batch Prediction",
+            "imagename": "batch_prediction"
+        },
+        {
+            "name": "Book",
+            "imagename": "book"
+        },
+        {
+            "name": "Bookmark",
+            "imagename": "bookmark"
+        },
+        {
+            "name": "Bookmarks",
+            "imagename": "bookmarks"
+        },
+        {
+            "name": "Bookmark Border",
+            "imagename": "bookmark_border"
+        },
+        {
+            "name": "Book Online",
+            "imagename": "book_online"
+        },
+        {
+            "name": "Bug Report",
+            "imagename": "bug_report"
+        },
+        {
+            "name": "Build",
+            "imagename": "build"
+        },
+        {
+            "name": "Build Circle",
+            "imagename": "build_circle"
+        },
+        {
+            "name": "Cached",
+            "imagename": "cached"
+        },
+        {
+            "name": "Calendar Today",
+            "imagename": "calendar_today"
+        },
+        {
+            "name": "Calendar View Day",
+            "imagename": "calendar_view_day"
+        },
+        {
+            "name": "Camera Enhance",
+            "imagename": "camera_enhance"
+        },
+        {
+            "name": "Cancel Schedule Send",
+            "imagename": "cancel_schedule_send"
+        },
+        {
+            "name": "Card Giftcard",
+            "imagename": "card_giftcard"
+        },
+        {
+            "name": "Card Membership",
+            "imagename": "card_membership"
+        },
+        {
+            "name": "Card Travel",
+            "imagename": "card_travel"
+        },
+        {
+            "name": "Change History",
+            "imagename": "change_history"
+        },
+        {
+            "name": "Check Circle",
+            "imagename": "check_circle"
+        },
+        {
+            "name": "Check Circle Outline",
+            "imagename": "check_circle_outline"
+        },
+        {
+            "name": "Chrome Reader Mode",
+            "imagename": "chrome_reader_mode"
+        },
+        {
+            "name": "Circle Notifications",
+            "imagename": "circle_notifications"
+        },
+        {
+            "name": "Class",
+            "imagename": "class"
+        },
+        {
+            "name": "Close Fullscreen",
+            "imagename": "close_fullscreen"
+        },
+        {
+            "name": "Code",
+            "imagename": "code"
+        },
+        {
+            "name": "Comment Bank",
+            "imagename": "comment_bank"
+        },
+        {
+            "name": "Commute",
+            "imagename": "commute"
+        },
+        {
+            "name": "Compare Arrows",
+            "imagename": "compare_arrows"
+        },
+        {
+            "name": "Compress",
+            "imagename": "compress"
+        },
+        {
+            "name": "Contactless",
+            "imagename": "contactless"
+        },
+        {
+            "name": "Contact Page",
+            "imagename": "contact_page"
+        },
+        {
+            "name": "Contact Support",
+            "imagename": "contact_support"
+        },
+        {
+            "name": "Copyright",
+            "imagename": "copyright"
+        },
+        {
+            "name": "Credit Card",
+            "imagename": "credit_card"
+        },
+        {
+            "name": "Dangerous",
+            "imagename": "dangerous"
+        },
+        {
+            "name": "Dashboard",
+            "imagename": "dashboard"
+        },
+        {
+            "name": "Dashboard Customize",
+            "imagename": "dashboard_customize"
+        },
+        {
+            "name": "Date Range",
+            "imagename": "date_range"
+        },
+        {
+            "name": "Delete",
+            "imagename": "delete"
+        },
+        {
+            "name": "Delete Forever",
+            "imagename": "delete_forever"
+        },
+        {
+            "name": "Delete Outline",
+            "imagename": "delete_outline"
+        },
+        {
+            "name": "Description",
+            "imagename": "description"
+        },
+        {
+            "name": "Disabled By Default",
+            "imagename": "disabled_by_default"
+        },
+        {
+            "name": "Dns",
+            "imagename": "dns"
+        },
+        {
+            "name": "Done",
+            "imagename": "done"
+        },
+        {
+            "name": "Done All",
+            "imagename": "done_all"
+        },
+        {
+            "name": "Done Outline",
+            "imagename": "done_outline"
+        },
+        {
+            "name": "Donut Large",
+            "imagename": "donut_large"
+        },
+        {
+            "name": "Donut Small",
+            "imagename": "donut_small"
+        },
+        {
+            "name": "Drag Indicator",
+            "imagename": "drag_indicator"
+        },
+        {
+            "name": "Dynamic Form",
+            "imagename": "dynamic_form"
+        },
+        {
+            "name": "Eco",
+            "imagename": "eco"
+        },
+        {
+            "name": "Edit Off",
+            "imagename": "edit_off"
+        },
+        {
+            "name": "Eject",
+            "imagename": "eject"
+        },
+        {
+            "name": "Euro Symbol",
+            "imagename": "euro_symbol"
+        },
+        {
+            "name": "Event",
+            "imagename": "event"
+        },
+        {
+            "name": "Event Seat",
+            "imagename": "event_seat"
+        },
+        {
+            "name": "Exit To App",
+            "imagename": "exit_to_app"
+        },
+        {
+            "name": "Expand",
+            "imagename": "expand"
+        },
+        {
+            "name": "Explore",
+            "imagename": "explore"
+        },
+        {
+            "name": "Explore Off",
+            "imagename": "explore_off"
+        },
+        {
+            "name": "Extension",
+            "imagename": "extension"
+        },
+        {
+            "name": "Face",
+            "imagename": "face"
+        },
+        {
+            "name": "Face Unlock",
+            "imagename": "face_unlock"
+        },
+        {
+            "name": "Fact Check",
+            "imagename": "fact_check"
+        },
+        {
+            "name": "Favorite",
+            "imagename": "favorite"
+        },
+        {
+            "name": "Favorite Border",
+            "imagename": "favorite_border"
+        },
+        {
+            "name": "Feedback",
+            "imagename": "feedback"
+        },
+        {
+            "name": "File Present",
+            "imagename": "file_present"
+        },
+        {
+            "name": "Filter Alt",
+            "imagename": "filter_alt"
+        },
+        {
+            "name": "Filter List Alt",
+            "imagename": "filter_list_alt"
+        },
+        {
+            "name": "Find In Page",
+            "imagename": "find_in_page"
+        },
+        {
+            "name": "Find Replace",
+            "imagename": "find_replace"
+        },
+        {
+            "name": "Fingerprint",
+            "imagename": "fingerprint"
+        },
+        {
+            "name": "Fit Screen",
+            "imagename": "fit_screen"
+        },
+        {
+            "name": "Flaky",
+            "imagename": "flaky"
+        },
+        {
+            "name": "Flight Land",
+            "imagename": "flight_land"
+        },
+        {
+            "name": "Flight Takeoff",
+            "imagename": "flight_takeoff"
+        },
+        {
+            "name": "Flip To Back",
+            "imagename": "flip_to_back"
+        },
+        {
+            "name": "Flip To Front",
+            "imagename": "flip_to_front"
+        },
+        {
+            "name": "Gavel",
+            "imagename": "gavel"
+        },
+        {
+            "name": "Get App",
+            "imagename": "get_app"
+        },
+        {
+            "name": "Gif",
+            "imagename": "gif"
+        },
+        {
+            "name": "Grade",
+            "imagename": "grade"
+        },
+        {
+            "name": "Grading",
+            "imagename": "grading"
+        },
+        {
+            "name": "Group Work",
+            "imagename": "group_work"
+        },
+        {
+            "name": "G Translate",
+            "imagename": "g_translate"
+        },
+        {
+            "name": "Help",
+            "imagename": "help"
+        },
+        {
+            "name": "Help Center",
+            "imagename": "help_center"
+        },
+        {
+            "name": "Help Outline",
+            "imagename": "help_outline"
+        },
+        {
+            "name": "Highlight Alt",
+            "imagename": "highlight_alt"
+        },
+        {
+            "name": "Highlight Off",
+            "imagename": "highlight_off"
+        },
+        {
+            "name": "History",
+            "imagename": "history"
+        },
+        {
+            "name": "History Toggle Off",
+            "imagename": "history_toggle_off"
+        },
+        {
+            "name": "Home",
+            "imagename": "home"
+        },
+        {
+            "name": "Home Filled",
+            "imagename": "home_filled"
+        },
+        {
+            "name": "Horizontal Split",
+            "imagename": "horizontal_split"
+        },
+        {
+            "name": "Hourglass Disabled",
+            "imagename": "hourglass_disabled"
+        },
+        {
+            "name": "Hourglass Empty",
+            "imagename": "hourglass_empty"
+        },
+        {
+            "name": "Hourglass Full",
+            "imagename": "hourglass_full"
+        },
+        {
+            "name": "Http",
+            "imagename": "http"
+        },
+        {
+            "name": "Https",
+            "imagename": "https"
+        },
+        {
+            "name": "Important Devices",
+            "imagename": "important_devices"
+        },
+        {
+            "name": "Info",
+            "imagename": "info"
+        },
+        {
+            "name": "Info Outline",
+            "imagename": "info_outline"
+        },
+        {
+            "name": "Input",
+            "imagename": "input"
+        },
+        {
+            "name": "Integration Instructions",
+            "imagename": "integration_instructions"
+        },
+        {
+            "name": "Invert Colors",
+            "imagename": "invert_colors"
+        },
+        {
+            "name": "Label",
+            "imagename": "label"
+        },
+        {
+            "name": "Label Important",
+            "imagename": "label_important"
+        },
+        {
+            "name": "Label Important Outline",
+            "imagename": "label_important_outline"
+        },
+        {
+            "name": "Label Off",
+            "imagename": "label_off"
+        },
+        {
+            "name": "Label Outline",
+            "imagename": "label_outline"
+        },
+        {
+            "name": "Language",
+            "imagename": "language"
+        },
+        {
+            "name": "Launch",
+            "imagename": "launch"
+        },
+        {
+            "name": "Leaderboard",
+            "imagename": "leaderboard"
+        },
+        {
+            "name": "Lightbulb",
+            "imagename": "lightbulb"
+        },
+        {
+            "name": "Lightbulb Outline",
+            "imagename": "lightbulb_outline"
+        },
+        {
+            "name": "Line Style",
+            "imagename": "line_style"
+        },
+        {
+            "name": "Line Weight",
+            "imagename": "line_weight"
+        },
+        {
+            "name": "List",
+            "imagename": "list"
+        },
+        {
+            "name": "Lock",
+            "imagename": "lock"
+        },
+        {
+            "name": "Lock Clock",
+            "imagename": "lock_clock"
+        },
+        {
+            "name": "Lock Open",
+            "imagename": "lock_open"
+        },
+        {
+            "name": "Lock Outline",
+            "imagename": "lock_outline"
+        },
+        {
+            "name": "Login",
+            "imagename": "login"
+        },
+        {
+            "name": "Logout",
+            "imagename": "logout"
+        },
+        {
+            "name": "Loyalty",
+            "imagename": "loyalty"
+        },
+        {
+            "name": "Markunread Mailbox",
+            "imagename": "markunread_mailbox"
+        },
+        {
+            "name": "Mark As Unread",
+            "imagename": "mark_as_unread"
+        },
+        {
+            "name": "Maximize",
+            "imagename": "maximize"
+        },
+        {
+            "name": "Mediation",
+            "imagename": "mediation"
+        },
+        {
+            "name": "Minimize",
+            "imagename": "minimize"
+        },
+        {
+            "name": "Model Training",
+            "imagename": "model_training"
+        },
+        {
+            "name": "Next Plan",
+            "imagename": "next_plan"
+        },
+        {
+            "name": "Nightlight Round",
+            "imagename": "nightlight_round"
+        },
+        {
+            "name": "Note Add",
+            "imagename": "note_add"
+        },
+        {
+            "name": "Not Accessible",
+            "imagename": "not_accessible"
+        },
+        {
+            "name": "Not Started",
+            "imagename": "not_started"
+        },
+        {
+            "name": "Offline Bolt",
+            "imagename": "offline_bolt"
+        },
+        {
+            "name": "Offline Pin",
+            "imagename": "offline_pin"
+        },
+        {
+            "name": "Online Prediction",
+            "imagename": "online_prediction"
+        },
+        {
+            "name": "Opacity",
+            "imagename": "opacity"
+        },
+        {
+            "name": "Open In Browser",
+            "imagename": "open_in_browser"
+        },
+        {
+            "name": "Open In Full",
+            "imagename": "open_in_full"
+        },
+        {
+            "name": "Open In New",
+            "imagename": "open_in_new"
+        },
+        {
+            "name": "Open With",
+            "imagename": "open_with"
+        },
+        {
+            "name": "Outbond",
+            "imagename": "outbond"
+        },
+        {
+            "name": "Outbox",
+            "imagename": "outbox"
+        },
+        {
+            "name": "Outgoing Mail",
+            "imagename": "outgoing_mail"
+        },
+        {
+            "name": "Outlet",
+            "imagename": "outlet"
+        },
+        {
+            "name": "Pageview",
+            "imagename": "pageview"
+        },
+        {
+            "name": "Pan Tool",
+            "imagename": "pan_tool"
+        },
+        {
+            "name": "Payment",
+            "imagename": "payment"
+        },
+        {
+            "name": "Pending",
+            "imagename": "pending"
+        },
+        {
+            "name": "Pending Actions",
+            "imagename": "pending_actions"
+        },
+        {
+            "name": "Perm Camera Mic",
+            "imagename": "perm_camera_mic"
+        },
+        {
+            "name": "Perm Contact Calendar",
+            "imagename": "perm_contact_calendar"
+        },
+        {
+            "name": "Perm Data Setting",
+            "imagename": "perm_data_setting"
+        },
+        {
+            "name": "Perm Device Information",
+            "imagename": "perm_device_information"
+        },
+        {
+            "name": "Perm Identity",
+            "imagename": "perm_identity"
+        },
+        {
+            "name": "Perm Media",
+            "imagename": "perm_media"
+        },
+        {
+            "name": "Perm Phone Msg",
+            "imagename": "perm_phone_msg"
+        },
+        {
+            "name": "Perm Scan Wifi",
+            "imagename": "perm_scan_wifi"
+        },
+        {
+            "name": "Pets",
+            "imagename": "pets"
+        },
+        {
+            "name": "Picture In Picture",
+            "imagename": "picture_in_picture"
+        },
+        {
+            "name": "Picture In Picture Alt",
+            "imagename": "picture_in_picture_alt"
+        },
+        {
+            "name": "Plagiarism",
+            "imagename": "plagiarism"
+        },
+        {
+            "name": "Play For Work",
+            "imagename": "play_for_work"
+        },
+        {
+            "name": "Polymer",
+            "imagename": "polymer"
+        },
+        {
+            "name": "Power Settings New",
+            "imagename": "power_settings_new"
+        },
+        {
+            "name": "Pregnant Woman",
+            "imagename": "pregnant_woman"
+        },
+        {
+            "name": "Preview",
+            "imagename": "preview"
+        },
+        {
+            "name": "Print",
+            "imagename": "print"
+        },
+        {
+            "name": "Privacy Tip",
+            "imagename": "privacy_tip"
+        },
+        {
+            "name": "Published With Changes",
+            "imagename": "published_with_changes"
+        },
+        {
+            "name": "Query Builder",
+            "imagename": "query_builder"
+        },
+        {
+            "name": "Question Answer",
+            "imagename": "question_answer"
+        },
+        {
+            "name": "Quickreply",
+            "imagename": "quickreply"
+        },
+        {
+            "name": "Receipt",
+            "imagename": "receipt"
+        },
+        {
+            "name": "Record Voice Over",
+            "imagename": "record_voice_over"
+        },
+        {
+            "name": "Redeem",
+            "imagename": "redeem"
+        },
+        {
+            "name": "Remove Done",
+            "imagename": "remove_done"
+        },
+        {
+            "name": "Remove Shopping Cart",
+            "imagename": "remove_shopping_cart"
+        },
+        {
+            "name": "Reorder",
+            "imagename": "reorder"
+        },
+        {
+            "name": "Report Problem",
+            "imagename": "report_problem"
+        },
+        {
+            "name": "Request Page",
+            "imagename": "request_page"
+        },
+        {
+            "name": "Restore",
+            "imagename": "restore"
+        },
+        {
+            "name": "Restore From Trash",
+            "imagename": "restore_from_trash"
+        },
+        {
+            "name": "Restore Page",
+            "imagename": "restore_page"
+        },
+        {
+            "name": "Room",
+            "imagename": "room"
+        },
+        {
+            "name": "Rounded Corner",
+            "imagename": "rounded_corner"
+        },
+        {
+            "name": "Rowing",
+            "imagename": "rowing"
+        },
+        {
+            "name": "Rule",
+            "imagename": "rule"
+        },
+        {
+            "name": "Saved Search",
+            "imagename": "saved_search"
+        },
+        {
+            "name": "Schedule",
+            "imagename": "schedule"
+        },
+        {
+            "name": "Schedule Send",
+            "imagename": "schedule_send"
+        },
+        {
+            "name": "Search",
+            "imagename": "search"
+        },
+        {
+            "name": "Search Off",
+            "imagename": "search_off"
+        },
+        {
+            "name": "Segment",
+            "imagename": "segment"
+        },
+        {
+            "name": "Send And Archive",
+            "imagename": "send_and_archive"
+        },
+        {
+            "name": "Settings",
+            "imagename": "settings"
+        },
+        {
+            "name": "Settings Applications",
+            "imagename": "settings_applications"
+        },
+        {
+            "name": "Settings Backup Restore",
+            "imagename": "settings_backup_restore"
+        },
+        {
+            "name": "Settings Bluetooth",
+            "imagename": "settings_bluetooth"
+        },
+        {
+            "name": "Settings Brightness",
+            "imagename": "settings_brightness"
+        },
+        {
+            "name": "Settings Cell",
+            "imagename": "settings_cell"
+        },
+        {
+            "name": "Settings Ethernet",
+            "imagename": "settings_ethernet"
+        },
+        {
+            "name": "Settings Input Antenna",
+            "imagename": "settings_input_antenna"
+        },
+        {
+            "name": "Settings Input Component",
+            "imagename": "settings_input_component"
+        },
+        {
+            "name": "Settings Input Composite",
+            "imagename": "settings_input_composite"
+        },
+        {
+            "name": "Settings Input Hdmi",
+            "imagename": "settings_input_hdmi"
+        },
+        {
+            "name": "Settings Input Svideo",
+            "imagename": "settings_input_svideo"
+        },
+        {
+            "name": "Settings Overscan",
+            "imagename": "settings_overscan"
+        },
+        {
+            "name": "Settings Phone",
+            "imagename": "settings_phone"
+        },
+        {
+            "name": "Settings Power",
+            "imagename": "settings_power"
+        },
+        {
+            "name": "Settings Remote",
+            "imagename": "settings_remote"
+        },
+        {
+            "name": "Settings Voice",
+            "imagename": "settings_voice"
+        },
+        {
+            "name": "Shop",
+            "imagename": "shop"
+        },
+        {
+            "name": "Shopping Bag",
+            "imagename": "shopping_bag"
+        },
+        {
+            "name": "Shopping Basket",
+            "imagename": "shopping_basket"
+        },
+        {
+            "name": "Shopping Cart",
+            "imagename": "shopping_cart"
+        },
+        {
+            "name": "Shop Two",
+            "imagename": "shop_two"
+        },
+        {
+            "name": "Smart Button",
+            "imagename": "smart_button"
+        },
+        {
+            "name": "Source",
+            "imagename": "source"
+        },
+        {
+            "name": "Speaker Notes",
+            "imagename": "speaker_notes"
+        },
+        {
+            "name": "Speaker Notes Off",
+            "imagename": "speaker_notes_off"
+        },
+        {
+            "name": "Spellcheck",
+            "imagename": "spellcheck"
+        },
+        {
+            "name": "Stars",
+            "imagename": "stars"
+        },
+        {
+            "name": "Star Rate",
+            "imagename": "star_rate"
+        },
+        {
+            "name": "Sticky Note 2",
+            "imagename": "sticky_note_2"
+        },
+        {
+            "name": "Store",
+            "imagename": "store"
+        },
+        {
+            "name": "Subject",
+            "imagename": "subject"
+        },
+        {
+            "name": "Subtitles Off",
+            "imagename": "subtitles_off"
+        },
+        {
+            "name": "Supervised User Circle",
+            "imagename": "supervised_user_circle"
+        },
+        {
+            "name": "Supervisor Account",
+            "imagename": "supervisor_account"
+        },
+        {
+            "name": "Support",
+            "imagename": "support"
+        },
+        {
+            "name": "Swap Horiz",
+            "imagename": "swap_horiz"
+        },
+        {
+            "name": "Swap Horizontal Circle",
+            "imagename": "swap_horizontal_circle"
+        },
+        {
+            "name": "Swap Vert",
+            "imagename": "swap_vert"
+        },
+        {
+            "name": "Swap Vertical Circle",
+            "imagename": "swap_vertical_circle"
+        },
+        {
+            "name": "Swipe",
+            "imagename": "swipe"
+        },
+        {
+            "name": "Sync Alt",
+            "imagename": "sync_alt"
+        },
+        {
+            "name": "System Update Alt",
+            "imagename": "system_update_alt"
+        },
+        {
+            "name": "Tab",
+            "imagename": "tab"
+        },
+        {
+            "name": "Table View",
+            "imagename": "table_view"
+        },
+        {
+            "name": "Tab Unselected",
+            "imagename": "tab_unselected"
+        },
+        {
+            "name": "Text Rotate Up",
+            "imagename": "text_rotate_up"
+        },
+        {
+            "name": "Text Rotate Vertical",
+            "imagename": "text_rotate_vertical"
+        },
+        {
+            "name": "Text Rotation Angledown",
+            "imagename": "text_rotation_angledown"
+        },
+        {
+            "name": "Text Rotation Angleup",
+            "imagename": "text_rotation_angleup"
+        },
+        {
+            "name": "Text Rotation Down",
+            "imagename": "text_rotation_down"
+        },
+        {
+            "name": "Text Rotation None",
+            "imagename": "text_rotation_none"
+        },
+        {
+            "name": "Theaters",
+            "imagename": "theaters"
+        },
+        {
+            "name": "Thumbs Up Down",
+            "imagename": "thumbs_up_down"
+        },
+        {
+            "name": "Thumb Down",
+            "imagename": "thumb_down"
+        },
+        {
+            "name": "Thumb Down Off Alt",
+            "imagename": "thumb_down_off_alt"
+        },
+        {
+            "name": "Thumb Up",
+            "imagename": "thumb_up"
+        },
+        {
+            "name": "Thumb Up Off Alt",
+            "imagename": "thumb_up_off_alt"
+        },
+        {
+            "name": "Timeline",
+            "imagename": "timeline"
+        },
+        {
+            "name": "Toc",
+            "imagename": "toc"
+        },
+        {
+            "name": "Today",
+            "imagename": "today"
+        },
+        {
+            "name": "Toll",
+            "imagename": "toll"
+        },
+        {
+            "name": "Touch App",
+            "imagename": "touch_app"
+        },
+        {
+            "name": "Tour",
+            "imagename": "tour"
+        },
+        {
+            "name": "Track Changes",
+            "imagename": "track_changes"
+        },
+        {
+            "name": "Translate",
+            "imagename": "translate"
+        },
+        {
+            "name": "Trending Down",
+            "imagename": "trending_down"
+        },
+        {
+            "name": "Trending Flat",
+            "imagename": "trending_flat"
+        },
+        {
+            "name": "Trending Up",
+            "imagename": "trending_up"
+        },
+        {
+            "name": "Turned In",
+            "imagename": "turned_in"
+        },
+        {
+            "name": "Turned In Not",
+            "imagename": "turned_in_not"
+        },
+        {
+            "name": "Unpublished",
+            "imagename": "unpublished"
+        },
+        {
+            "name": "Update",
+            "imagename": "update"
+        },
+        {
+            "name": "Upgrade",
+            "imagename": "upgrade"
+        },
+        {
+            "name": "Verified",
+            "imagename": "verified"
+        },
+        {
+            "name": "Verified User",
+            "imagename": "verified_user"
+        },
+        {
+            "name": "Vertical Split",
+            "imagename": "vertical_split"
+        },
+        {
+            "name": "View Agenda",
+            "imagename": "view_agenda"
+        },
+        {
+            "name": "View Array",
+            "imagename": "view_array"
+        },
+        {
+            "name": "View Carousel",
+            "imagename": "view_carousel"
+        },
+        {
+            "name": "View Column",
+            "imagename": "view_column"
+        },
+        {
+            "name": "View Day",
+            "imagename": "view_day"
+        },
+        {
+            "name": "View Headline",
+            "imagename": "view_headline"
+        },
+        {
+            "name": "View In Ar",
+            "imagename": "view_in_ar"
+        },
+        {
+            "name": "View List",
+            "imagename": "view_list"
+        },
+        {
+            "name": "View Module",
+            "imagename": "view_module"
+        },
+        {
+            "name": "View Quilt",
+            "imagename": "view_quilt"
+        },
+        {
+            "name": "View Sidebar",
+            "imagename": "view_sidebar"
+        },
+        {
+            "name": "View Stream",
+            "imagename": "view_stream"
+        },
+        {
+            "name": "View Week",
+            "imagename": "view_week"
+        },
+        {
+            "name": "Visibility",
+            "imagename": "visibility"
+        },
+        {
+            "name": "Visibility Off",
+            "imagename": "visibility_off"
+        },
+        {
+            "name": "Voice Over Off",
+            "imagename": "voice_over_off"
+        },
+        {
+            "name": "Watch Later",
+            "imagename": "watch_later"
+        },
+        {
+            "name": "Wifi Protected Setup",
+            "imagename": "wifi_protected_setup"
+        },
+        {
+            "name": "Work",
+            "imagename": "work"
+        },
+        {
+            "name": "Work Off",
+            "imagename": "work_off"
+        },
+        {
+            "name": "Work Outline",
+            "imagename": "work_outline"
+        },
+        {
+            "name": "Wysiwyg",
+            "imagename": "wysiwyg"
+        },
+        {
+            "name": "Youtube Searched For",
+            "imagename": "youtube_searched_for"
+        },
+        {
+            "name": "Zoom In",
+            "imagename": "zoom_in"
+        },
+        {
+            "name": "Zoom Out",
+            "imagename": "zoom_out"
+        }
+    ]
+},
+{
+    "name": "Alert",
+    "icons": [
+        {
+            "name": "Add Alert",
+            "imagename": "add_alert"
+        },
+        {
+            "name": "Auto Delete",
+            "imagename": "auto_delete"
+        },
+        {
+            "name": "Error",
+            "imagename": "error"
+        },
+        {
+            "name": "Error Outline",
+            "imagename": "error_outline"
+        },
+        {
+            "name": "Notification Important",
+            "imagename": "notification_important"
+        },
+        {
+            "name": "Warning",
+            "imagename": "warning"
+        },
+        {
+            "name": "Warning Amber",
+            "imagename": "warning_amber"
+        }
+    ]
+},
+{
+    "name": "Av",
+    "icons": [
+        {
+            "name": "10K",
+            "imagename": "10k"
+        },
+        {
+            "name": "1K",
+            "imagename": "1k"
+        },
+        {
+            "name": "1K Plus",
+            "imagename": "1k_plus"
+        },
+        {
+            "name": "2K",
+            "imagename": "2k"
+        },
+        {
+            "name": "2K Plus",
+            "imagename": "2k_plus"
+        },
+        {
+            "name": "3K",
+            "imagename": "3k"
+        },
+        {
+            "name": "3K Plus",
+            "imagename": "3k_plus"
+        },
+        {
+            "name": "4K",
+            "imagename": "4k"
+        },
+        {
+            "name": "4K Plus",
+            "imagename": "4k_plus"
+        },
+        {
+            "name": "5G",
+            "imagename": "5g"
+        },
+        {
+            "name": "5K",
+            "imagename": "5k"
+        },
+        {
+            "name": "5K Plus",
+            "imagename": "5k_plus"
+        },
+        {
+            "name": "6K",
+            "imagename": "6k"
+        },
+        {
+            "name": "6K Plus",
+            "imagename": "6k_plus"
+        },
+        {
+            "name": "7K",
+            "imagename": "7k"
+        },
+        {
+            "name": "7K Plus",
+            "imagename": "7k_plus"
+        },
+        {
+            "name": "8K",
+            "imagename": "8k"
+        },
+        {
+            "name": "8K Plus",
+            "imagename": "8k_plus"
+        },
+        {
+            "name": "9K",
+            "imagename": "9k"
+        },
+        {
+            "name": "9K Plus",
+            "imagename": "9k_plus"
+        },
+        {
+            "name": "Add To Queue",
+            "imagename": "add_to_queue"
+        },
+        {
+            "name": "Airplay",
+            "imagename": "airplay"
+        },
+        {
+            "name": "Album",
+            "imagename": "album"
+        },
+        {
+            "name": "Art Track",
+            "imagename": "art_track"
+        },
+        {
+            "name": "Av Timer",
+            "imagename": "av_timer"
+        },
+        {
+            "name": "Branding Watermark",
+            "imagename": "branding_watermark"
+        },
+        {
+            "name": "Call To Action",
+            "imagename": "call_to_action"
+        },
+        {
+            "name": "Closed Caption",
+            "imagename": "closed_caption"
+        },
+        {
+            "name": "Closed Caption Disabled",
+            "imagename": "closed_caption_disabled"
+        },
+        {
+            "name": "Closed Caption Off",
+            "imagename": "closed_caption_off"
+        },
+        {
+            "name": "Control Camera",
+            "imagename": "control_camera"
+        },
+        {
+            "name": "Equalizer",
+            "imagename": "equalizer"
+        },
+        {
+            "name": "Explicit",
+            "imagename": "explicit"
+        },
+        {
+            "name": "Fast Forward",
+            "imagename": "fast_forward"
+        },
+        {
+            "name": "Fast Rewind",
+            "imagename": "fast_rewind"
+        },
+        {
+            "name": "Featured Play List",
+            "imagename": "featured_play_list"
+        },
+        {
+            "name": "Featured Video",
+            "imagename": "featured_video"
+        },
+        {
+            "name": "Fiber Dvr",
+            "imagename": "fiber_dvr"
+        },
+        {
+            "name": "Fiber Manual Record",
+            "imagename": "fiber_manual_record"
+        },
+        {
+            "name": "Fiber New",
+            "imagename": "fiber_new"
+        },
+        {
+            "name": "Fiber Pin",
+            "imagename": "fiber_pin"
+        },
+        {
+            "name": "Fiber Smart Record",
+            "imagename": "fiber_smart_record"
+        },
+        {
+            "name": "Forward 10",
+            "imagename": "forward_10"
+        },
+        {
+            "name": "Forward 30",
+            "imagename": "forward_30"
+        },
+        {
+            "name": "Forward 5",
+            "imagename": "forward_5"
+        },
+        {
+            "name": "Games",
+            "imagename": "games"
+        },
+        {
+            "name": "Hd",
+            "imagename": "hd"
+        },
+        {
+            "name": "Hearing",
+            "imagename": "hearing"
+        },
+        {
+            "name": "Hearing Disabled",
+            "imagename": "hearing_disabled"
+        },
+        {
+            "name": "High Quality",
+            "imagename": "high_quality"
+        },
+        {
+            "name": "Library Add",
+            "imagename": "library_add"
+        },
+        {
+            "name": "Library Add Check",
+            "imagename": "library_add_check"
+        },
+        {
+            "name": "Library Books",
+            "imagename": "library_books"
+        },
+        {
+            "name": "Library Music",
+            "imagename": "library_music"
+        },
+        {
+            "name": "Loop",
+            "imagename": "loop"
+        },
+        {
+            "name": "Mic",
+            "imagename": "mic"
+        },
+        {
+            "name": "Mic None",
+            "imagename": "mic_none"
+        },
+        {
+            "name": "Mic Off",
+            "imagename": "mic_off"
+        },
+        {
+            "name": "Missed Video Call",
+            "imagename": "missed_video_call"
+        },
+        {
+            "name": "Movie",
+            "imagename": "movie"
+        },
+        {
+            "name": "Music Video",
+            "imagename": "music_video"
+        },
+        {
+            "name": "New Releases",
+            "imagename": "new_releases"
+        },
+        {
+            "name": "Note",
+            "imagename": "note"
+        },
+        {
+            "name": "Not Interested",
+            "imagename": "not_interested"
+        },
+        {
+            "name": "Pause",
+            "imagename": "pause"
+        },
+        {
+            "name": "Pause Circle Filled",
+            "imagename": "pause_circle_filled"
+        },
+        {
+            "name": "Pause Circle Outline",
+            "imagename": "pause_circle_outline"
+        },
+        {
+            "name": "Playlist Add",
+            "imagename": "playlist_add"
+        },
+        {
+            "name": "Playlist Add Check",
+            "imagename": "playlist_add_check"
+        },
+        {
+            "name": "Playlist Play",
+            "imagename": "playlist_play"
+        },
+        {
+            "name": "Play Arrow",
+            "imagename": "play_arrow"
+        },
+        {
+            "name": "Play Circle Filled",
+            "imagename": "play_circle_filled"
+        },
+        {
+            "name": "Play Circle Outline",
+            "imagename": "play_circle_outline"
+        },
+        {
+            "name": "Play Disabled",
+            "imagename": "play_disabled"
+        },
+        {
+            "name": "Queue",
+            "imagename": "queue"
+        },
+        {
+            "name": "Queue Music",
+            "imagename": "queue_music"
+        },
+        {
+            "name": "Queue Play Next",
+            "imagename": "queue_play_next"
+        },
+        {
+            "name": "Radio",
+            "imagename": "radio"
+        },
+        {
+            "name": "Recent Actors",
+            "imagename": "recent_actors"
+        },
+        {
+            "name": "Remove From Queue",
+            "imagename": "remove_from_queue"
+        },
+        {
+            "name": "Repeat",
+            "imagename": "repeat"
+        },
+        {
+            "name": "Repeat On",
+            "imagename": "repeat_on"
+        },
+        {
+            "name": "Repeat One",
+            "imagename": "repeat_one"
+        },
+        {
+            "name": "Repeat One On",
+            "imagename": "repeat_one_on"
+        },
+        {
+            "name": "Replay",
+            "imagename": "replay"
+        },
+        {
+            "name": "Replay 10",
+            "imagename": "replay_10"
+        },
+        {
+            "name": "Replay 30",
+            "imagename": "replay_30"
+        },
+        {
+            "name": "Replay 5",
+            "imagename": "replay_5"
+        },
+        {
+            "name": "Replay Circle Filled",
+            "imagename": "replay_circle_filled"
+        },
+        {
+            "name": "Sd",
+            "imagename": "sd"
+        },
+        {
+            "name": "Shuffle",
+            "imagename": "shuffle"
+        },
+        {
+            "name": "Shuffle On",
+            "imagename": "shuffle_on"
+        },
+        {
+            "name": "Skip Next",
+            "imagename": "skip_next"
+        },
+        {
+            "name": "Skip Previous",
+            "imagename": "skip_previous"
+        },
+        {
+            "name": "Slow Motion Video",
+            "imagename": "slow_motion_video"
+        },
+        {
+            "name": "Snooze",
+            "imagename": "snooze"
+        },
+        {
+            "name": "Sort By Alpha",
+            "imagename": "sort_by_alpha"
+        },
+        {
+            "name": "Speed",
+            "imagename": "speed"
+        },
+        {
+            "name": "Stop",
+            "imagename": "stop"
+        },
+        {
+            "name": "Stop Circle",
+            "imagename": "stop_circle"
+        },
+        {
+            "name": "Subscriptions",
+            "imagename": "subscriptions"
+        },
+        {
+            "name": "Subtitles",
+            "imagename": "subtitles"
+        },
+        {
+            "name": "Surround Sound",
+            "imagename": "surround_sound"
+        },
+        {
+            "name": "Videocam",
+            "imagename": "videocam"
+        },
+        {
+            "name": "Videocam Off",
+            "imagename": "videocam_off"
+        },
+        {
+            "name": "Video Call",
+            "imagename": "video_call"
+        },
+        {
+            "name": "Video Label",
+            "imagename": "video_label"
+        },
+        {
+            "name": "Video Library",
+            "imagename": "video_library"
+        },
+        {
+            "name": "Video Settings",
+            "imagename": "video_settings"
+        },
+        {
+            "name": "Volume Down",
+            "imagename": "volume_down"
+        },
+        {
+            "name": "Volume Mute",
+            "imagename": "volume_mute"
+        },
+        {
+            "name": "Volume Off",
+            "imagename": "volume_off"
+        },
+        {
+            "name": "Volume Up",
+            "imagename": "volume_up"
+        },
+        {
+            "name": "Web",
+            "imagename": "web"
+        },
+        {
+            "name": "Web Asset",
+            "imagename": "web_asset"
+        }
+    ]
+},
+{
+    "name": "Communication",
+    "icons": [
+        {
+            "name": "Add Ic Call",
+            "imagename": "add_ic_call"
+        },
+        {
+            "name": "Alternate Email",
+            "imagename": "alternate_email"
+        },
+        {
+            "name": "App Registration",
+            "imagename": "app_registration"
+        },
+        {
+            "name": "Business",
+            "imagename": "business"
+        },
+        {
+            "name": "Call",
+            "imagename": "call"
+        },
+        {
+            "name": "Call End",
+            "imagename": "call_end"
+        },
+        {
+            "name": "Call Made",
+            "imagename": "call_made"
+        },
+        {
+            "name": "Call Merge",
+            "imagename": "call_merge"
+        },
+        {
+            "name": "Call Missed",
+            "imagename": "call_missed"
+        },
+        {
+            "name": "Call Missed Outgoing",
+            "imagename": "call_missed_outgoing"
+        },
+        {
+            "name": "Call Received",
+            "imagename": "call_received"
+        },
+        {
+            "name": "Call Split",
+            "imagename": "call_split"
+        },
+        {
+            "name": "Cancel Presentation",
+            "imagename": "cancel_presentation"
+        },
+        {
+            "name": "Cell Wifi",
+            "imagename": "cell_wifi"
+        },
+        {
+            "name": "Chat",
+            "imagename": "chat"
+        },
+        {
+            "name": "Chat Bubble",
+            "imagename": "chat_bubble"
+        },
+        {
+            "name": "Chat Bubble Outline",
+            "imagename": "chat_bubble_outline"
+        },
+        {
+            "name": "Clear All",
+            "imagename": "clear_all"
+        },
+        {
+            "name": "Comment",
+            "imagename": "comment"
+        },
+        {
+            "name": "Contacts",
+            "imagename": "contacts"
+        },
+        {
+            "name": "Contact Mail",
+            "imagename": "contact_mail"
+        },
+        {
+            "name": "Contact Phone",
+            "imagename": "contact_phone"
+        },
+        {
+            "name": "Desktop Access Disabled",
+            "imagename": "desktop_access_disabled"
+        },
+        {
+            "name": "Dialer Sip",
+            "imagename": "dialer_sip"
+        },
+        {
+            "name": "Dialpad",
+            "imagename": "dialpad"
+        },
+        {
+            "name": "Domain Disabled",
+            "imagename": "domain_disabled"
+        },
+        {
+            "name": "Domain Verification",
+            "imagename": "domain_verification"
+        },
+        {
+            "name": "Duo",
+            "imagename": "duo"
+        },
+        {
+            "name": "Email",
+            "imagename": "email"
+        },
+        {
+            "name": "Forum",
+            "imagename": "forum"
+        },
+        {
+            "name": "Forward To Inbox",
+            "imagename": "forward_to_inbox"
+        },
+        {
+            "name": "Hourglass Bottom",
+            "imagename": "hourglass_bottom"
+        },
+        {
+            "name": "Hourglass Top",
+            "imagename": "hourglass_top"
+        },
+        {
+            "name": "Import Contacts",
+            "imagename": "import_contacts"
+        },
+        {
+            "name": "Import Export",
+            "imagename": "import_export"
+        },
+        {
+            "name": "Invert Colors Off",
+            "imagename": "invert_colors_off"
+        },
+        {
+            "name": "List Alt",
+            "imagename": "list_alt"
+        },
+        {
+            "name": "Live Help",
+            "imagename": "live_help"
+        },
+        {
+            "name": "Location Off",
+            "imagename": "location_off"
+        },
+        {
+            "name": "Location On",
+            "imagename": "location_on"
+        },
+        {
+            "name": "Mail Outline",
+            "imagename": "mail_outline"
+        },
+        {
+            "name": "Mark Chat Read",
+            "imagename": "mark_chat_read"
+        },
+        {
+            "name": "Mark Chat Unread",
+            "imagename": "mark_chat_unread"
+        },
+        {
+            "name": "Mark Email Read",
+            "imagename": "mark_email_read"
+        },
+        {
+            "name": "Mark Email Unread",
+            "imagename": "mark_email_unread"
+        },
+        {
+            "name": "Message",
+            "imagename": "message"
+        },
+        {
+            "name": "Mobile Screen Share",
+            "imagename": "mobile_screen_share"
+        },
+        {
+            "name": "More Time",
+            "imagename": "more_time"
+        },
+        {
+            "name": "Nat",
+            "imagename": "nat"
+        },
+        {
+            "name": "No Sim",
+            "imagename": "no_sim"
+        },
+        {
+            "name": "Pause Presentation",
+            "imagename": "pause_presentation"
+        },
+        {
+            "name": "Person Add Disabled",
+            "imagename": "person_add_disabled"
+        },
+        {
+            "name": "Person Search",
+            "imagename": "person_search"
+        },
+        {
+            "name": "Phone",
+            "imagename": "phone"
+        },
+        {
+            "name": "Phonelink Erase",
+            "imagename": "phonelink_erase"
+        },
+        {
+            "name": "Phonelink Lock",
+            "imagename": "phonelink_lock"
+        },
+        {
+            "name": "Phonelink Ring",
+            "imagename": "phonelink_ring"
+        },
+        {
+            "name": "Phonelink Setup",
+            "imagename": "phonelink_setup"
+        },
+        {
+            "name": "Phone Disabled",
+            "imagename": "phone_disabled"
+        },
+        {
+            "name": "Phone Enabled",
+            "imagename": "phone_enabled"
+        },
+        {
+            "name": "Portable Wifi Off",
+            "imagename": "portable_wifi_off"
+        },
+        {
+            "name": "Present To All",
+            "imagename": "present_to_all"
+        },
+        {
+            "name": "Print Disabled",
+            "imagename": "print_disabled"
+        },
+        {
+            "name": "Qr Code",
+            "imagename": "qr_code"
+        },
+        {
+            "name": "Qr Code Scanner",
+            "imagename": "qr_code_scanner"
+        },
+        {
+            "name": "Read More",
+            "imagename": "read_more"
+        },
+        {
+            "name": "Ring Volume",
+            "imagename": "ring_volume"
+        },
+        {
+            "name": "Rss Feed",
+            "imagename": "rss_feed"
+        },
+        {
+            "name": "Rtt",
+            "imagename": "rtt"
+        },
+        {
+            "name": "Screen Share",
+            "imagename": "screen_share"
+        },
+        {
+            "name": "Sentiment Satisfied Alt",
+            "imagename": "sentiment_satisfied_alt"
+        },
+        {
+            "name": "Speaker Phone",
+            "imagename": "speaker_phone"
+        },
+        {
+            "name": "Stay Current Landscape",
+            "imagename": "stay_current_landscape"
+        },
+        {
+            "name": "Stay Current Portrait",
+            "imagename": "stay_current_portrait"
+        },
+        {
+            "name": "Stay Primary Landscape",
+            "imagename": "stay_primary_landscape"
+        },
+        {
+            "name": "Stay Primary Portrait",
+            "imagename": "stay_primary_portrait"
+        },
+        {
+            "name": "Stop Screen Share",
+            "imagename": "stop_screen_share"
+        },
+        {
+            "name": "Swap Calls",
+            "imagename": "swap_calls"
+        },
+        {
+            "name": "Textsms",
+            "imagename": "textsms"
+        },
+        {
+            "name": "Unsubscribe",
+            "imagename": "unsubscribe"
+        },
+        {
+            "name": "Voicemail",
+            "imagename": "voicemail"
+        },
+        {
+            "name": "Vpn Key",
+            "imagename": "vpn_key"
+        },
+        {
+            "name": "Wifi Calling",
+            "imagename": "wifi_calling"
+        }
+    ]
+},
+{
+    "name": "Content",
+    "icons": [
+        {
+            "name": "Add",
+            "imagename": "add"
+        },
+        {
+            "name": "Add Box",
+            "imagename": "add_box"
+        },
+        {
+            "name": "Add Circle",
+            "imagename": "add_circle"
+        },
+        {
+            "name": "Add Circle Outline",
+            "imagename": "add_circle_outline"
+        },
+        {
+            "name": "Add Link",
+            "imagename": "add_link"
+        },
+        {
+            "name": "Amp Stories",
+            "imagename": "amp_stories"
+        },
+        {
+            "name": "Archive",
+            "imagename": "archive"
+        },
+        {
+            "name": "Attribution",
+            "imagename": "attribution"
+        },
+        {
+            "name": "Backspace",
+            "imagename": "backspace"
+        },
+        {
+            "name": "Ballot",
+            "imagename": "ballot"
+        },
+        {
+            "name": "Biotech",
+            "imagename": "biotech"
+        },
+        {
+            "name": "Block",
+            "imagename": "block"
+        },
+        {
+            "name": "Block Flipped",
+            "imagename": "block_flipped"
+        },
+        {
+            "name": "Bolt",
+            "imagename": "bolt"
+        },
+        {
+            "name": "Calculate",
+            "imagename": "calculate"
+        },
+        {
+            "name": "Clear",
+            "imagename": "clear"
+        },
+        {
+            "name": "Content Copy",
+            "imagename": "content_copy"
+        },
+        {
+            "name": "Content Cut",
+            "imagename": "content_cut"
+        },
+        {
+            "name": "Content Paste",
+            "imagename": "content_paste"
+        },
+        {
+            "name": "Create",
+            "imagename": "create"
+        },
+        {
+            "name": "Delete Sweep",
+            "imagename": "delete_sweep"
+        },
+        {
+            "name": "Drafts",
+            "imagename": "drafts"
+        },
+        {
+            "name": "Dynamic Feed",
+            "imagename": "dynamic_feed"
+        },
+        {
+            "name": "File Copy",
+            "imagename": "file_copy"
+        },
+        {
+            "name": "Filter List",
+            "imagename": "filter_list"
+        },
+        {
+            "name": "Flag",
+            "imagename": "flag"
+        },
+        {
+            "name": "Font Download",
+            "imagename": "font_download"
+        },
+        {
+            "name": "Forward",
+            "imagename": "forward"
+        },
+        {
+            "name": "Gesture",
+            "imagename": "gesture"
+        },
+        {
+            "name": "How To Reg",
+            "imagename": "how_to_reg"
+        },
+        {
+            "name": "How To Vote",
+            "imagename": "how_to_vote"
+        },
+        {
+            "name": "Inbox",
+            "imagename": "inbox"
+        },
+        {
+            "name": "Insights",
+            "imagename": "insights"
+        },
+        {
+            "name": "Inventory",
+            "imagename": "inventory"
+        },
+        {
+            "name": "Link",
+            "imagename": "link"
+        },
+        {
+            "name": "Link Off",
+            "imagename": "link_off"
+        },
+        {
+            "name": "Low Priority",
+            "imagename": "low_priority"
+        },
+        {
+            "name": "Mail",
+            "imagename": "mail"
+        },
+        {
+            "name": "Markunread",
+            "imagename": "markunread"
+        },
+        {
+            "name": "Move To Inbox",
+            "imagename": "move_to_inbox"
+        },
+        {
+            "name": "Next Week",
+            "imagename": "next_week"
+        },
+        {
+            "name": "Outlined Flag",
+            "imagename": "outlined_flag"
+        },
+        {
+            "name": "Policy",
+            "imagename": "policy"
+        },
+        {
+            "name": "Push Pin",
+            "imagename": "push_pin"
+        },
+        {
+            "name": "Redo",
+            "imagename": "redo"
+        },
+        {
+            "name": "Remove",
+            "imagename": "remove"
+        },
+        {
+            "name": "Remove Circle",
+            "imagename": "remove_circle"
+        },
+        {
+            "name": "Remove Circle Outline",
+            "imagename": "remove_circle_outline"
+        },
+        {
+            "name": "Reply",
+            "imagename": "reply"
+        },
+        {
+            "name": "Reply All",
+            "imagename": "reply_all"
+        },
+        {
+            "name": "Report",
+            "imagename": "report"
+        },
+        {
+            "name": "Report Gmailerrorred",
+            "imagename": "report_gmailerrorred"
+        },
+        {
+            "name": "Report Off",
+            "imagename": "report_off"
+        },
+        {
+            "name": "Save",
+            "imagename": "save"
+        },
+        {
+            "name": "Save Alt",
+            "imagename": "save_alt"
+        },
+        {
+            "name": "Select All",
+            "imagename": "select_all"
+        },
+        {
+            "name": "Send",
+            "imagename": "send"
+        },
+        {
+            "name": "Shield",
+            "imagename": "shield"
+        },
+        {
+            "name": "Sort",
+            "imagename": "sort"
+        },
+        {
+            "name": "Square Foot",
+            "imagename": "square_foot"
+        },
+        {
+            "name": "Stacked Bar Chart",
+            "imagename": "stacked_bar_chart"
+        },
+        {
+            "name": "Stream",
+            "imagename": "stream"
+        },
+        {
+            "name": "Tag",
+            "imagename": "tag"
+        },
+        {
+            "name": "Text Format",
+            "imagename": "text_format"
+        },
+        {
+            "name": "Unarchive",
+            "imagename": "unarchive"
+        },
+        {
+            "name": "Undo",
+            "imagename": "undo"
+        },
+        {
+            "name": "Waves",
+            "imagename": "waves"
+        },
+        {
+            "name": "Weekend",
+            "imagename": "weekend"
+        },
+        {
+            "name": "Where To Vote",
+            "imagename": "where_to_vote"
+        }
+    ]
+},
+{
+    "name": "Device",
+    "icons": [
+        {
+            "name": "Access Alarm",
+            "imagename": "access_alarm"
+        },
+        {
+            "name": "Access Alarms",
+            "imagename": "access_alarms"
+        },
+        {
+            "name": "Access Time",
+            "imagename": "access_time"
+        },
+        {
+            "name": "Add Alarm",
+            "imagename": "add_alarm"
+        },
+        {
+            "name": "Add To Home Screen",
+            "imagename": "add_to_home_screen"
+        },
+        {
+            "name": "Ad Units",
+            "imagename": "ad_units"
+        },
+        {
+            "name": "Airplanemode Active",
+            "imagename": "airplanemode_active"
+        },
+        {
+            "name": "Airplanemode Inactive",
+            "imagename": "airplanemode_inactive"
+        },
+        {
+            "name": "Battery Alert",
+            "imagename": "battery_alert"
+        },
+        {
+            "name": "Battery Charging Full",
+            "imagename": "battery_charging_full"
+        },
+        {
+            "name": "Battery Full",
+            "imagename": "battery_full"
+        },
+        {
+            "name": "Battery Std",
+            "imagename": "battery_std"
+        },
+        {
+            "name": "Battery Unknown",
+            "imagename": "battery_unknown"
+        },
+        {
+            "name": "Bluetooth",
+            "imagename": "bluetooth"
+        },
+        {
+            "name": "Bluetooth Connected",
+            "imagename": "bluetooth_connected"
+        },
+        {
+            "name": "Bluetooth Disabled",
+            "imagename": "bluetooth_disabled"
+        },
+        {
+            "name": "Bluetooth Searching",
+            "imagename": "bluetooth_searching"
+        },
+        {
+            "name": "Brightness Auto",
+            "imagename": "brightness_auto"
+        },
+        {
+            "name": "Brightness High",
+            "imagename": "brightness_high"
+        },
+        {
+            "name": "Brightness Low",
+            "imagename": "brightness_low"
+        },
+        {
+            "name": "Brightness Medium",
+            "imagename": "brightness_medium"
+        },
+        {
+            "name": "Data Usage",
+            "imagename": "data_usage"
+        },
+        {
+            "name": "Developer Mode",
+            "imagename": "developer_mode"
+        },
+        {
+            "name": "Devices",
+            "imagename": "devices"
+        },
+        {
+            "name": "Device Thermostat",
+            "imagename": "device_thermostat"
+        },
+        {
+            "name": "Dvr",
+            "imagename": "dvr"
+        },
+        {
+            "name": "Gps Fixed",
+            "imagename": "gps_fixed"
+        },
+        {
+            "name": "Gps Not Fixed",
+            "imagename": "gps_not_fixed"
+        },
+        {
+            "name": "Gps Off",
+            "imagename": "gps_off"
+        },
+        {
+            "name": "Graphic Eq",
+            "imagename": "graphic_eq"
+        },
+        {
+            "name": "Location Disabled",
+            "imagename": "location_disabled"
+        },
+        {
+            "name": "Location Searching",
+            "imagename": "location_searching"
+        },
+        {
+            "name": "Mobile Friendly",
+            "imagename": "mobile_friendly"
+        },
+        {
+            "name": "Mobile Off",
+            "imagename": "mobile_off"
+        },
+        {
+            "name": "Network Cell",
+            "imagename": "network_cell"
+        },
+        {
+            "name": "Network Wifi",
+            "imagename": "network_wifi"
+        },
+        {
+            "name": "Nfc",
+            "imagename": "nfc"
+        },
+        {
+            "name": "Reset Tv",
+            "imagename": "reset_tv"
+        },
+        {
+            "name": "Screen Lock Landscape",
+            "imagename": "screen_lock_landscape"
+        },
+        {
+            "name": "Screen Lock Portrait",
+            "imagename": "screen_lock_portrait"
+        },
+        {
+            "name": "Screen Lock Rotation",
+            "imagename": "screen_lock_rotation"
+        },
+        {
+            "name": "Screen Rotation",
+            "imagename": "screen_rotation"
+        },
+        {
+            "name": "Screen Search Desktop",
+            "imagename": "screen_search_desktop"
+        },
+        {
+            "name": "Sd Storage",
+            "imagename": "sd_storage"
+        },
+        {
+            "name": "Send To Mobile",
+            "imagename": "send_to_mobile"
+        },
+        {
+            "name": "Settings System Daydream",
+            "imagename": "settings_system_daydream"
+        },
+        {
+            "name": "Signal Cellular 0 Bar",
+            "imagename": "signal_cellular_0_bar"
+        },
+        {
+            "name": "Signal Cellular 4 Bar",
+            "imagename": "signal_cellular_4_bar"
+        },
+        {
+            "name": "Signal Cellular Alt",
+            "imagename": "signal_cellular_alt"
+        },
+        {
+            "name": "Signal Cellular Connected No Internet 4 Bar",
+            "imagename": "signal_cellular_connected_no_internet_4_bar"
+        },
+        {
+            "name": "Signal Cellular No Sim",
+            "imagename": "signal_cellular_no_sim"
+        },
+        {
+            "name": "Signal Cellular Null",
+            "imagename": "signal_cellular_null"
+        },
+        {
+            "name": "Signal Cellular Off",
+            "imagename": "signal_cellular_off"
+        },
+        {
+            "name": "Signal Wifi 0 Bar",
+            "imagename": "signal_wifi_0_bar"
+        },
+        {
+            "name": "Signal Wifi 4 Bar",
+            "imagename": "signal_wifi_4_bar"
+        },
+        {
+            "name": "Signal Wifi 4 Bar Lock",
+            "imagename": "signal_wifi_4_bar_lock"
+        },
+        {
+            "name": "Signal Wifi Off",
+            "imagename": "signal_wifi_off"
+        },
+        {
+            "name": "Storage",
+            "imagename": "storage"
+        },
+        {
+            "name": "Thermostat",
+            "imagename": "thermostat"
+        },
+        {
+            "name": "Usb",
+            "imagename": "usb"
+        },
+        {
+            "name": "Wallpaper",
+            "imagename": "wallpaper"
+        },
+        {
+            "name": "Widgets",
+            "imagename": "widgets"
+        },
+        {
+            "name": "Wifi Lock",
+            "imagename": "wifi_lock"
+        },
+        {
+            "name": "Wifi Tethering",
+            "imagename": "wifi_tethering"
+        }
+    ]
+},
+{
+    "name": "Editor",
+    "icons": [
+        {
+            "name": "Add Chart",
+            "imagename": "add_chart"
+        },
+        {
+            "name": "Add Comment",
+            "imagename": "add_comment"
+        },
+        {
+            "name": "Attach File",
+            "imagename": "attach_file"
+        },
+        {
+            "name": "Attach Money",
+            "imagename": "attach_money"
+        },
+        {
+            "name": "Bar Chart",
+            "imagename": "bar_chart"
+        },
+        {
+            "name": "Border All",
+            "imagename": "border_all"
+        },
+        {
+            "name": "Border Bottom",
+            "imagename": "border_bottom"
+        },
+        {
+            "name": "Border Clear",
+            "imagename": "border_clear"
+        },
+        {
+            "name": "Border Color",
+            "imagename": "border_color"
+        },
+        {
+            "name": "Border Horizontal",
+            "imagename": "border_horizontal"
+        },
+        {
+            "name": "Border Inner",
+            "imagename": "border_inner"
+        },
+        {
+            "name": "Border Left",
+            "imagename": "border_left"
+        },
+        {
+            "name": "Border Outer",
+            "imagename": "border_outer"
+        },
+        {
+            "name": "Border Right",
+            "imagename": "border_right"
+        },
+        {
+            "name": "Border Style",
+            "imagename": "border_style"
+        },
+        {
+            "name": "Border Top",
+            "imagename": "border_top"
+        },
+        {
+            "name": "Border Vertical",
+            "imagename": "border_vertical"
+        },
+        {
+            "name": "Bubble Chart",
+            "imagename": "bubble_chart"
+        },
+        {
+            "name": "Drag Handle",
+            "imagename": "drag_handle"
+        },
+        {
+            "name": "Format Align Center",
+            "imagename": "format_align_center"
+        },
+        {
+            "name": "Format Align Justify",
+            "imagename": "format_align_justify"
+        },
+        {
+            "name": "Format Align Left",
+            "imagename": "format_align_left"
+        },
+        {
+            "name": "Format Align Right",
+            "imagename": "format_align_right"
+        },
+        {
+            "name": "Format Bold",
+            "imagename": "format_bold"
+        },
+        {
+            "name": "Format Clear",
+            "imagename": "format_clear"
+        },
+        {
+            "name": "Format Color Fill",
+            "imagename": "format_color_fill"
+        },
+        {
+            "name": "Format Color Reset",
+            "imagename": "format_color_reset"
+        },
+        {
+            "name": "Format Color Text",
+            "imagename": "format_color_text"
+        },
+        {
+            "name": "Format Indent Decrease",
+            "imagename": "format_indent_decrease"
+        },
+        {
+            "name": "Format Indent Increase",
+            "imagename": "format_indent_increase"
+        },
+        {
+            "name": "Format Italic",
+            "imagename": "format_italic"
+        },
+        {
+            "name": "Format Line Spacing",
+            "imagename": "format_line_spacing"
+        },
+        {
+            "name": "Format List Bulleted",
+            "imagename": "format_list_bulleted"
+        },
+        {
+            "name": "Format List Numbered",
+            "imagename": "format_list_numbered"
+        },
+        {
+            "name": "Format List Numbered Rtl",
+            "imagename": "format_list_numbered_rtl"
+        },
+        {
+            "name": "Format Paint",
+            "imagename": "format_paint"
+        },
+        {
+            "name": "Format Quote",
+            "imagename": "format_quote"
+        },
+        {
+            "name": "Format Shapes",
+            "imagename": "format_shapes"
+        },
+        {
+            "name": "Format Size",
+            "imagename": "format_size"
+        },
+        {
+            "name": "Format Strikethrough",
+            "imagename": "format_strikethrough"
+        },
+        {
+            "name": "Format Textdirection L To R",
+            "imagename": "format_textdirection_l_to_r"
+        },
+        {
+            "name": "Format Textdirection R To L",
+            "imagename": "format_textdirection_r_to_l"
+        },
+        {
+            "name": "Format Underlined",
+            "imagename": "format_underlined"
+        },
+        {
+            "name": "Functions",
+            "imagename": "functions"
+        },
+        {
+            "name": "Height",
+            "imagename": "height"
+        },
+        {
+            "name": "Highlight",
+            "imagename": "highlight"
+        },
+        {
+            "name": "Horizontal Rule",
+            "imagename": "horizontal_rule"
+        },
+        {
+            "name": "Insert Chart",
+            "imagename": "insert_chart"
+        },
+        {
+            "name": "Insert Chart Outlined",
+            "imagename": "insert_chart_outlined"
+        },
+        {
+            "name": "Insert Comment",
+            "imagename": "insert_comment"
+        },
+        {
+            "name": "Insert Drive File",
+            "imagename": "insert_drive_file"
+        },
+        {
+            "name": "Insert Emoticon",
+            "imagename": "insert_emoticon"
+        },
+        {
+            "name": "Insert Invitation",
+            "imagename": "insert_invitation"
+        },
+        {
+            "name": "Insert Link",
+            "imagename": "insert_link"
+        },
+        {
+            "name": "Insert Photo",
+            "imagename": "insert_photo"
+        },
+        {
+            "name": "Linear Scale",
+            "imagename": "linear_scale"
+        },
+        {
+            "name": "Margin",
+            "imagename": "margin"
+        },
+        {
+            "name": "Merge Type",
+            "imagename": "merge_type"
+        },
+        {
+            "name": "Mode",
+            "imagename": "mode"
+        },
+        {
+            "name": "Mode Comment",
+            "imagename": "mode_comment"
+        },
+        {
+            "name": "Mode Edit",
+            "imagename": "mode_edit"
+        },
+        {
+            "name": "Monetization On",
+            "imagename": "monetization_on"
+        },
+        {
+            "name": "Money Off",
+            "imagename": "money_off"
+        },
+        {
+            "name": "Money Off Csred",
+            "imagename": "money_off_csred"
+        },
+        {
+            "name": "Multiline Chart",
+            "imagename": "multiline_chart"
+        },
+        {
+            "name": "Notes",
+            "imagename": "notes"
+        },
+        {
+            "name": "Padding",
+            "imagename": "padding"
+        },
+        {
+            "name": "Pie Chart",
+            "imagename": "pie_chart"
+        },
+        {
+            "name": "Pie Chart Outline",
+            "imagename": "pie_chart_outline"
+        },
+        {
+            "name": "Pie Chart Outlined",
+            "imagename": "pie_chart_outlined"
+        },
+        {
+            "name": "Post Add",
+            "imagename": "post_add"
+        },
+        {
+            "name": "Publish",
+            "imagename": "publish"
+        },
+        {
+            "name": "Scatter Plot",
+            "imagename": "scatter_plot"
+        },
+        {
+            "name": "Score",
+            "imagename": "score"
+        },
+        {
+            "name": "Short Text",
+            "imagename": "short_text"
+        },
+        {
+            "name": "Show Chart",
+            "imagename": "show_chart"
+        },
+        {
+            "name": "Space Bar",
+            "imagename": "space_bar"
+        },
+        {
+            "name": "Stacked Line Chart",
+            "imagename": "stacked_line_chart"
+        },
+        {
+            "name": "Strikethrough S",
+            "imagename": "strikethrough_s"
+        },
+        {
+            "name": "Subscript",
+            "imagename": "subscript"
+        },
+        {
+            "name": "Superscript",
+            "imagename": "superscript"
+        },
+        {
+            "name": "Table Chart",
+            "imagename": "table_chart"
+        },
+        {
+            "name": "Table Rows",
+            "imagename": "table_rows"
+        },
+        {
+            "name": "Text Fields",
+            "imagename": "text_fields"
+        },
+        {
+            "name": "Title",
+            "imagename": "title"
+        },
+        {
+            "name": "Vertical Align Bottom",
+            "imagename": "vertical_align_bottom"
+        },
+        {
+            "name": "Vertical Align Center",
+            "imagename": "vertical_align_center"
+        },
+        {
+            "name": "Vertical Align Top",
+            "imagename": "vertical_align_top"
+        },
+        {
+            "name": "Wrap Text",
+            "imagename": "wrap_text"
+        }
+    ]
+},
+{
+    "name": "File",
+    "icons": [
+        {
+            "name": "Approval",
+            "imagename": "approval"
+        },
+        {
+            "name": "Attachment",
+            "imagename": "attachment"
+        },
+        {
+            "name": "Attach Email",
+            "imagename": "attach_email"
+        },
+        {
+            "name": "Cloud",
+            "imagename": "cloud"
+        },
+        {
+            "name": "Cloud Circle",
+            "imagename": "cloud_circle"
+        },
+        {
+            "name": "Cloud Done",
+            "imagename": "cloud_done"
+        },
+        {
+            "name": "Cloud Download",
+            "imagename": "cloud_download"
+        },
+        {
+            "name": "Cloud Off",
+            "imagename": "cloud_off"
+        },
+        {
+            "name": "Cloud Queue",
+            "imagename": "cloud_queue"
+        },
+        {
+            "name": "Cloud Upload",
+            "imagename": "cloud_upload"
+        },
+        {
+            "name": "Create New Folder",
+            "imagename": "create_new_folder"
+        },
+        {
+            "name": "Download",
+            "imagename": "download"
+        },
+        {
+            "name": "Download Done",
+            "imagename": "download_done"
+        },
+        {
+            "name": "Drive File Move",
+            "imagename": "drive_file_move"
+        },
+        {
+            "name": "Drive File Move Outline",
+            "imagename": "drive_file_move_outline"
+        },
+        {
+            "name": "Drive File Rename Outline",
+            "imagename": "drive_file_rename_outline"
+        },
+        {
+            "name": "Drive Folder Upload",
+            "imagename": "drive_folder_upload"
+        },
+        {
+            "name": "File Download",
+            "imagename": "file_download"
+        },
+        {
+            "name": "File Download Done",
+            "imagename": "file_download_done"
+        },
+        {
+            "name": "File Upload",
+            "imagename": "file_upload"
+        },
+        {
+            "name": "Folder",
+            "imagename": "folder"
+        },
+        {
+            "name": "Folder Open",
+            "imagename": "folder_open"
+        },
+        {
+            "name": "Folder Shared",
+            "imagename": "folder_shared"
+        },
+        {
+            "name": "Grid View",
+            "imagename": "grid_view"
+        },
+        {
+            "name": "Request Quote",
+            "imagename": "request_quote"
+        },
+        {
+            "name": "Rule Folder",
+            "imagename": "rule_folder"
+        },
+        {
+            "name": "Snippet Folder",
+            "imagename": "snippet_folder"
+        },
+        {
+            "name": "Text Snippet",
+            "imagename": "text_snippet"
+        },
+        {
+            "name": "Topic",
+            "imagename": "topic"
+        },
+        {
+            "name": "Upload",
+            "imagename": "upload"
+        },
+        {
+            "name": "Upload File",
+            "imagename": "upload_file"
+        },
+        {
+            "name": "Workspaces Filled",
+            "imagename": "workspaces_filled"
+        },
+        {
+            "name": "Workspaces Outline",
+            "imagename": "workspaces_outline"
+        }
+    ]
+},
+{
+    "name": "Hardware",
+    "icons": [
+        {
+            "name": "Browser Not Supported",
+            "imagename": "browser_not_supported"
+        },
+        {
+            "name": "Cast",
+            "imagename": "cast"
+        },
+        {
+            "name": "Cast Connected",
+            "imagename": "cast_connected"
+        },
+        {
+            "name": "Cast For Education",
+            "imagename": "cast_for_education"
+        },
+        {
+            "name": "Computer",
+            "imagename": "computer"
+        },
+        {
+            "name": "Connected Tv",
+            "imagename": "connected_tv"
+        },
+        {
+            "name": "Desktop Mac",
+            "imagename": "desktop_mac"
+        },
+        {
+            "name": "Desktop Windows",
+            "imagename": "desktop_windows"
+        },
+        {
+            "name": "Developer Board",
+            "imagename": "developer_board"
+        },
+        {
+            "name": "Devices Other",
+            "imagename": "devices_other"
+        },
+        {
+            "name": "Device Hub",
+            "imagename": "device_hub"
+        },
+        {
+            "name": "Device Unknown",
+            "imagename": "device_unknown"
+        },
+        {
+            "name": "Dock",
+            "imagename": "dock"
+        },
+        {
+            "name": "Gamepad",
+            "imagename": "gamepad"
+        },
+        {
+            "name": "Headset",
+            "imagename": "headset"
+        },
+        {
+            "name": "Headset Mic",
+            "imagename": "headset_mic"
+        },
+        {
+            "name": "Headset Off",
+            "imagename": "headset_off"
+        },
+        {
+            "name": "Keyboard",
+            "imagename": "keyboard"
+        },
+        {
+            "name": "Keyboard Arrow Down",
+            "imagename": "keyboard_arrow_down"
+        },
+        {
+            "name": "Keyboard Arrow Left",
+            "imagename": "keyboard_arrow_left"
+        },
+        {
+            "name": "Keyboard Arrow Right",
+            "imagename": "keyboard_arrow_right"
+        },
+        {
+            "name": "Keyboard Arrow Up",
+            "imagename": "keyboard_arrow_up"
+        },
+        {
+            "name": "Keyboard Backspace",
+            "imagename": "keyboard_backspace"
+        },
+        {
+            "name": "Keyboard Capslock",
+            "imagename": "keyboard_capslock"
+        },
+        {
+            "name": "Keyboard Hide",
+            "imagename": "keyboard_hide"
+        },
+        {
+            "name": "Keyboard Return",
+            "imagename": "keyboard_return"
+        },
+        {
+            "name": "Keyboard Tab",
+            "imagename": "keyboard_tab"
+        },
+        {
+            "name": "Keyboard Voice",
+            "imagename": "keyboard_voice"
+        },
+        {
+            "name": "Laptop",
+            "imagename": "laptop"
+        },
+        {
+            "name": "Laptop Chromebook",
+            "imagename": "laptop_chromebook"
+        },
+        {
+            "name": "Laptop Mac",
+            "imagename": "laptop_mac"
+        },
+        {
+            "name": "Laptop Windows",
+            "imagename": "laptop_windows"
+        },
+        {
+            "name": "Memory",
+            "imagename": "memory"
+        },
+        {
+            "name": "Monitor",
+            "imagename": "monitor"
+        },
+        {
+            "name": "Mouse",
+            "imagename": "mouse"
+        },
+        {
+            "name": "Phonelink",
+            "imagename": "phonelink"
+        },
+        {
+            "name": "Phonelink Off",
+            "imagename": "phonelink_off"
+        },
+        {
+            "name": "Phone Android",
+            "imagename": "phone_android"
+        },
+        {
+            "name": "Phone Iphone",
+            "imagename": "phone_iphone"
+        },
+        {
+            "name": "Point Of Sale",
+            "imagename": "point_of_sale"
+        },
+        {
+            "name": "Power Input",
+            "imagename": "power_input"
+        },
+        {
+            "name": "Router",
+            "imagename": "router"
+        },
+        {
+            "name": "Scanner",
+            "imagename": "scanner"
+        },
+        {
+            "name": "Security",
+            "imagename": "security"
+        },
+        {
+            "name": "Sim Card",
+            "imagename": "sim_card"
+        },
+        {
+            "name": "Smartphone",
+            "imagename": "smartphone"
+        },
+        {
+            "name": "Speaker",
+            "imagename": "speaker"
+        },
+        {
+            "name": "Speaker Group",
+            "imagename": "speaker_group"
+        },
+        {
+            "name": "Tablet",
+            "imagename": "tablet"
+        },
+        {
+            "name": "Tablet Android",
+            "imagename": "tablet_android"
+        },
+        {
+            "name": "Tablet Mac",
+            "imagename": "tablet_mac"
+        },
+        {
+            "name": "Toys",
+            "imagename": "toys"
+        },
+        {
+            "name": "Tv",
+            "imagename": "tv"
+        },
+        {
+            "name": "Videogame Asset",
+            "imagename": "videogame_asset"
+        },
+        {
+            "name": "Watch",
+            "imagename": "watch"
+        }
+    ]
+},
+{
+    "name": "Home",
+    "icons": [
+        {
+            "name": "Sensor Door",
+            "imagename": "sensor_door"
+        },
+        {
+            "name": "Sensor Window",
+            "imagename": "sensor_window"
+        }
+    ]
+},
+{
+    "name": "Image",
+    "icons": [
+        {
+            "name": "10Mp",
+            "imagename": "10mp"
+        },
+        {
+            "name": "11Mp",
+            "imagename": "11mp"
+        },
+        {
+            "name": "12Mp",
+            "imagename": "12mp"
+        },
+        {
+            "name": "13Mp",
+            "imagename": "13mp"
+        },
+        {
+            "name": "14Mp",
+            "imagename": "14mp"
+        },
+        {
+            "name": "15Mp",
+            "imagename": "15mp"
+        },
+        {
+            "name": "16Mp",
+            "imagename": "16mp"
+        },
+        {
+            "name": "17Mp",
+            "imagename": "17mp"
+        },
+        {
+            "name": "18Mp",
+            "imagename": "18mp"
+        },
+        {
+            "name": "19Mp",
+            "imagename": "19mp"
+        },
+        {
+            "name": "20Mp",
+            "imagename": "20mp"
+        },
+        {
+            "name": "21Mp",
+            "imagename": "21mp"
+        },
+        {
+            "name": "22Mp",
+            "imagename": "22mp"
+        },
+        {
+            "name": "23Mp",
+            "imagename": "23mp"
+        },
+        {
+            "name": "24Mp",
+            "imagename": "24mp"
+        },
+        {
+            "name": "2Mp",
+            "imagename": "2mp"
+        },
+        {
+            "name": "3Mp",
+            "imagename": "3mp"
+        },
+        {
+            "name": "4Mp",
+            "imagename": "4mp"
+        },
+        {
+            "name": "5Mp",
+            "imagename": "5mp"
+        },
+        {
+            "name": "6Mp",
+            "imagename": "6mp"
+        },
+        {
+            "name": "7Mp",
+            "imagename": "7mp"
+        },
+        {
+            "name": "8Mp",
+            "imagename": "8mp"
+        },
+        {
+            "name": "9Mp",
+            "imagename": "9mp"
+        },
+        {
+            "name": "Add A Photo",
+            "imagename": "add_a_photo"
+        },
+        {
+            "name": "Add Photo Alternate",
+            "imagename": "add_photo_alternate"
+        },
+        {
+            "name": "Add To Photos",
+            "imagename": "add_to_photos"
+        },
+        {
+            "name": "Adjust",
+            "imagename": "adjust"
+        },
+        {
+            "name": "Animation",
+            "imagename": "animation"
+        },
+        {
+            "name": "Assistant",
+            "imagename": "assistant"
+        },
+        {
+            "name": "Assistant Photo",
+            "imagename": "assistant_photo"
+        },
+        {
+            "name": "Audiotrack",
+            "imagename": "audiotrack"
+        },
+        {
+            "name": "Auto Awesome",
+            "imagename": "auto_awesome"
+        },
+        {
+            "name": "Auto Awesome Mosaic",
+            "imagename": "auto_awesome_mosaic"
+        },
+        {
+            "name": "Auto Awesome Motion",
+            "imagename": "auto_awesome_motion"
+        },
+        {
+            "name": "Auto Fix High",
+            "imagename": "auto_fix_high"
+        },
+        {
+            "name": "Auto Fix Normal",
+            "imagename": "auto_fix_normal"
+        },
+        {
+            "name": "Auto Fix Off",
+            "imagename": "auto_fix_off"
+        },
+        {
+            "name": "Auto Stories",
+            "imagename": "auto_stories"
+        },
+        {
+            "name": "Bedtime",
+            "imagename": "bedtime"
+        },
+        {
+            "name": "Blur Circular",
+            "imagename": "blur_circular"
+        },
+        {
+            "name": "Blur Linear",
+            "imagename": "blur_linear"
+        },
+        {
+            "name": "Blur Off",
+            "imagename": "blur_off"
+        },
+        {
+            "name": "Blur On",
+            "imagename": "blur_on"
+        },
+        {
+            "name": "Brightness 1",
+            "imagename": "brightness_1"
+        },
+        {
+            "name": "Brightness 2",
+            "imagename": "brightness_2"
+        },
+        {
+            "name": "Brightness 3",
+            "imagename": "brightness_3"
+        },
+        {
+            "name": "Brightness 4",
+            "imagename": "brightness_4"
+        },
+        {
+            "name": "Brightness 5",
+            "imagename": "brightness_5"
+        },
+        {
+            "name": "Brightness 6",
+            "imagename": "brightness_6"
+        },
+        {
+            "name": "Brightness 7",
+            "imagename": "brightness_7"
+        },
+        {
+            "name": "Broken Image",
+            "imagename": "broken_image"
+        },
+        {
+            "name": "Brush",
+            "imagename": "brush"
+        },
+        {
+            "name": "Burst Mode",
+            "imagename": "burst_mode"
+        },
+        {
+            "name": "Camera",
+            "imagename": "camera"
+        },
+        {
+            "name": "Camera Alt",
+            "imagename": "camera_alt"
+        },
+        {
+            "name": "Camera Front",
+            "imagename": "camera_front"
+        },
+        {
+            "name": "Camera Rear",
+            "imagename": "camera_rear"
+        },
+        {
+            "name": "Camera Roll",
+            "imagename": "camera_roll"
+        },
+        {
+            "name": "Cases",
+            "imagename": "cases"
+        },
+        {
+            "name": "Center Focus Strong",
+            "imagename": "center_focus_strong"
+        },
+        {
+            "name": "Center Focus Weak",
+            "imagename": "center_focus_weak"
+        },
+        {
+            "name": "Circle",
+            "imagename": "circle"
+        },
+        {
+            "name": "Collections",
+            "imagename": "collections"
+        },
+        {
+            "name": "Collections Bookmark",
+            "imagename": "collections_bookmark"
+        },
+        {
+            "name": "Colorize",
+            "imagename": "colorize"
+        },
+        {
+            "name": "Color Lens",
+            "imagename": "color_lens"
+        },
+        {
+            "name": "Compare",
+            "imagename": "compare"
+        },
+        {
+            "name": "Control Point",
+            "imagename": "control_point"
+        },
+        {
+            "name": "Control Point Duplicate",
+            "imagename": "control_point_duplicate"
+        },
+        {
+            "name": "Crop",
+            "imagename": "crop"
+        },
+        {
+            "name": "Crop 16 9",
+            "imagename": "crop_16_9"
+        },
+        {
+            "name": "Crop 3 2",
+            "imagename": "crop_3_2"
+        },
+        {
+            "name": "Crop 5 4",
+            "imagename": "crop_5_4"
+        },
+        {
+            "name": "Crop 7 5",
+            "imagename": "crop_7_5"
+        },
+        {
+            "name": "Crop Din",
+            "imagename": "crop_din"
+        },
+        {
+            "name": "Crop Free",
+            "imagename": "crop_free"
+        },
+        {
+            "name": "Crop Landscape",
+            "imagename": "crop_landscape"
+        },
+        {
+            "name": "Crop Original",
+            "imagename": "crop_original"
+        },
+        {
+            "name": "Crop Portrait",
+            "imagename": "crop_portrait"
+        },
+        {
+            "name": "Crop Rotate",
+            "imagename": "crop_rotate"
+        },
+        {
+            "name": "Crop Square",
+            "imagename": "crop_square"
+        },
+        {
+            "name": "Dehaze",
+            "imagename": "dehaze"
+        },
+        {
+            "name": "Details",
+            "imagename": "details"
+        },
+        {
+            "name": "Dirty Lens",
+            "imagename": "dirty_lens"
+        },
+        {
+            "name": "Edit",
+            "imagename": "edit"
+        },
+        {
+            "name": "Euro",
+            "imagename": "euro"
+        },
+        {
+            "name": "Exposure",
+            "imagename": "exposure"
+        },
+        {
+            "name": "Exposure Neg 1",
+            "imagename": "exposure_neg_1"
+        },
+        {
+            "name": "Exposure Neg 2",
+            "imagename": "exposure_neg_2"
+        },
+        {
+            "name": "Exposure Plus 1",
+            "imagename": "exposure_plus_1"
+        },
+        {
+            "name": "Exposure Plus 2",
+            "imagename": "exposure_plus_2"
+        },
+        {
+            "name": "Exposure Zero",
+            "imagename": "exposure_zero"
+        },
+        {
+            "name": "Face Retouching Natural",
+            "imagename": "face_retouching_natural"
+        },
+        {
+            "name": "Filter",
+            "imagename": "filter"
+        },
+        {
+            "name": "Filter 1",
+            "imagename": "filter_1"
+        },
+        {
+            "name": "Filter 2",
+            "imagename": "filter_2"
+        },
+        {
+            "name": "Filter 3",
+            "imagename": "filter_3"
+        },
+        {
+            "name": "Filter 4",
+            "imagename": "filter_4"
+        },
+        {
+            "name": "Filter 5",
+            "imagename": "filter_5"
+        },
+        {
+            "name": "Filter 6",
+            "imagename": "filter_6"
+        },
+        {
+            "name": "Filter 7",
+            "imagename": "filter_7"
+        },
+        {
+            "name": "Filter 8",
+            "imagename": "filter_8"
+        },
+        {
+            "name": "Filter 9",
+            "imagename": "filter_9"
+        },
+        {
+            "name": "Filter 9 Plus",
+            "imagename": "filter_9_plus"
+        },
+        {
+            "name": "Filter B And W",
+            "imagename": "filter_b_and_w"
+        },
+        {
+            "name": "Filter Center Focus",
+            "imagename": "filter_center_focus"
+        },
+        {
+            "name": "Filter Drama",
+            "imagename": "filter_drama"
+        },
+        {
+            "name": "Filter Frames",
+            "imagename": "filter_frames"
+        },
+        {
+            "name": "Filter Hdr",
+            "imagename": "filter_hdr"
+        },
+        {
+            "name": "Filter None",
+            "imagename": "filter_none"
+        },
+        {
+            "name": "Filter Tilt Shift",
+            "imagename": "filter_tilt_shift"
+        },
+        {
+            "name": "Filter Vintage",
+            "imagename": "filter_vintage"
+        },
+        {
+            "name": "Flare",
+            "imagename": "flare"
+        },
+        {
+            "name": "Flash Auto",
+            "imagename": "flash_auto"
+        },
+        {
+            "name": "Flash Off",
+            "imagename": "flash_off"
+        },
+        {
+            "name": "Flash On",
+            "imagename": "flash_on"
+        },
+        {
+            "name": "Flip",
+            "imagename": "flip"
+        },
+        {
+            "name": "Flip Camera Android",
+            "imagename": "flip_camera_android"
+        },
+        {
+            "name": "Flip Camera Ios",
+            "imagename": "flip_camera_ios"
+        },
+        {
+            "name": "Gradient",
+            "imagename": "gradient"
+        },
+        {
+            "name": "Grain",
+            "imagename": "grain"
+        },
+        {
+            "name": "Grid Off",
+            "imagename": "grid_off"
+        },
+        {
+            "name": "Grid On",
+            "imagename": "grid_on"
+        },
+        {
+            "name": "Hdr Enhanced Select",
+            "imagename": "hdr_enhanced_select"
+        },
+        {
+            "name": "Hdr Off",
+            "imagename": "hdr_off"
+        },
+        {
+            "name": "Hdr On",
+            "imagename": "hdr_on"
+        },
+        {
+            "name": "Hdr Strong",
+            "imagename": "hdr_strong"
+        },
+        {
+            "name": "Hdr Weak",
+            "imagename": "hdr_weak"
+        },
+        {
+            "name": "Healing",
+            "imagename": "healing"
+        },
+        {
+            "name": "Image",
+            "imagename": "image"
+        },
+        {
+            "name": "Image Aspect Ratio",
+            "imagename": "image_aspect_ratio"
+        },
+        {
+            "name": "Image Not Supported",
+            "imagename": "image_not_supported"
+        },
+        {
+            "name": "Image Search",
+            "imagename": "image_search"
+        },
+        {
+            "name": "Iso",
+            "imagename": "iso"
+        },
+        {
+            "name": "Landscape",
+            "imagename": "landscape"
+        },
+        {
+            "name": "Leak Add",
+            "imagename": "leak_add"
+        },
+        {
+            "name": "Leak Remove",
+            "imagename": "leak_remove"
+        },
+        {
+            "name": "Lens",
+            "imagename": "lens"
+        },
+        {
+            "name": "Linked Camera",
+            "imagename": "linked_camera"
+        },
+        {
+            "name": "Looks",
+            "imagename": "looks"
+        },
+        {
+            "name": "Looks 3",
+            "imagename": "looks_3"
+        },
+        {
+            "name": "Looks 4",
+            "imagename": "looks_4"
+        },
+        {
+            "name": "Looks 5",
+            "imagename": "looks_5"
+        },
+        {
+            "name": "Looks 6",
+            "imagename": "looks_6"
+        },
+        {
+            "name": "Looks One",
+            "imagename": "looks_one"
+        },
+        {
+            "name": "Looks Two",
+            "imagename": "looks_two"
+        },
+        {
+            "name": "Loupe",
+            "imagename": "loupe"
+        },
+        {
+            "name": "Mic External Off",
+            "imagename": "mic_external_off"
+        },
+        {
+            "name": "Mic External On",
+            "imagename": "mic_external_on"
+        },
+        {
+            "name": "Monochrome Photos",
+            "imagename": "monochrome_photos"
+        },
+        {
+            "name": "Motion Photos Off",
+            "imagename": "motion_photos_off"
+        },
+        {
+            "name": "Motion Photos On",
+            "imagename": "motion_photos_on"
+        },
+        {
+            "name": "Motion Photos Pause",
+            "imagename": "motion_photos_pause"
+        },
+        {
+            "name": "Motion Photos Paused",
+            "imagename": "motion_photos_paused"
+        },
+        {
+            "name": "Movie Creation",
+            "imagename": "movie_creation"
+        },
+        {
+            "name": "Movie Filter",
+            "imagename": "movie_filter"
+        },
+        {
+            "name": "Mp",
+            "imagename": "mp"
+        },
+        {
+            "name": "Music Note",
+            "imagename": "music_note"
+        },
+        {
+            "name": "Music Off",
+            "imagename": "music_off"
+        },
+        {
+            "name": "Nature",
+            "imagename": "nature"
+        },
+        {
+            "name": "Nature People",
+            "imagename": "nature_people"
+        },
+        {
+            "name": "Navigate Before",
+            "imagename": "navigate_before"
+        },
+        {
+            "name": "Navigate Next",
+            "imagename": "navigate_next"
+        },
+        {
+            "name": "Palette",
+            "imagename": "palette"
+        },
+        {
+            "name": "Panorama",
+            "imagename": "panorama"
+        },
+        {
+            "name": "Panorama Fish Eye",
+            "imagename": "panorama_fish_eye"
+        },
+        {
+            "name": "Panorama Horizontal",
+            "imagename": "panorama_horizontal"
+        },
+        {
+            "name": "Panorama Horizontal Select",
+            "imagename": "panorama_horizontal_select"
+        },
+        {
+            "name": "Panorama Photosphere",
+            "imagename": "panorama_photosphere"
+        },
+        {
+            "name": "Panorama Photosphere Select",
+            "imagename": "panorama_photosphere_select"
+        },
+        {
+            "name": "Panorama Vertical",
+            "imagename": "panorama_vertical"
+        },
+        {
+            "name": "Panorama Vertical Select",
+            "imagename": "panorama_vertical_select"
+        },
+        {
+            "name": "Panorama Wide Angle",
+            "imagename": "panorama_wide_angle"
+        },
+        {
+            "name": "Panorama Wide Angle Select",
+            "imagename": "panorama_wide_angle_select"
+        },
+        {
+            "name": "Photo",
+            "imagename": "photo"
+        },
+        {
+            "name": "Photo Album",
+            "imagename": "photo_album"
+        },
+        {
+            "name": "Photo Camera",
+            "imagename": "photo_camera"
+        },
+        {
+            "name": "Photo Camera Back",
+            "imagename": "photo_camera_back"
+        },
+        {
+            "name": "Photo Camera Front",
+            "imagename": "photo_camera_front"
+        },
+        {
+            "name": "Photo Filter",
+            "imagename": "photo_filter"
+        },
+        {
+            "name": "Photo Library",
+            "imagename": "photo_library"
+        },
+        {
+            "name": "Photo Size Select Actual",
+            "imagename": "photo_size_select_actual"
+        },
+        {
+            "name": "Photo Size Select Large",
+            "imagename": "photo_size_select_large"
+        },
+        {
+            "name": "Photo Size Select Small",
+            "imagename": "photo_size_select_small"
+        },
+        {
+            "name": "Picture As Pdf",
+            "imagename": "picture_as_pdf"
+        },
+        {
+            "name": "Portrait",
+            "imagename": "portrait"
+        },
+        {
+            "name": "Receipt Long",
+            "imagename": "receipt_long"
+        },
+        {
+            "name": "Remove Red Eye",
+            "imagename": "remove_red_eye"
+        },
+        {
+            "name": "Rotate 90 Degrees Ccw",
+            "imagename": "rotate_90_degrees_ccw"
+        },
+        {
+            "name": "Rotate Left",
+            "imagename": "rotate_left"
+        },
+        {
+            "name": "Rotate Right",
+            "imagename": "rotate_right"
+        },
+        {
+            "name": "Shutter Speed",
+            "imagename": "shutter_speed"
+        },
+        {
+            "name": "Slideshow",
+            "imagename": "slideshow"
+        },
+        {
+            "name": "Straighten",
+            "imagename": "straighten"
+        },
+        {
+            "name": "Style",
+            "imagename": "style"
+        },
+        {
+            "name": "Switch Camera",
+            "imagename": "switch_camera"
+        },
+        {
+            "name": "Switch Video",
+            "imagename": "switch_video"
+        },
+        {
+            "name": "Tag Faces",
+            "imagename": "tag_faces"
+        },
+        {
+            "name": "Texture",
+            "imagename": "texture"
+        },
+        {
+            "name": "Timelapse",
+            "imagename": "timelapse"
+        },
+        {
+            "name": "Timer",
+            "imagename": "timer"
+        },
+        {
+            "name": "Timer 10",
+            "imagename": "timer_10"
+        },
+        {
+            "name": "Timer 3",
+            "imagename": "timer_3"
+        },
+        {
+            "name": "Timer Off",
+            "imagename": "timer_off"
+        },
+        {
+            "name": "Tonality",
+            "imagename": "tonality"
+        },
+        {
+            "name": "Transform",
+            "imagename": "transform"
+        },
+        {
+            "name": "Tune",
+            "imagename": "tune"
+        },
+        {
+            "name": "View Comfy",
+            "imagename": "view_comfy"
+        },
+        {
+            "name": "View Compact",
+            "imagename": "view_compact"
+        },
+        {
+            "name": "Vignette",
+            "imagename": "vignette"
+        },
+        {
+            "name": "Wb Auto",
+            "imagename": "wb_auto"
+        },
+        {
+            "name": "Wb Cloudy",
+            "imagename": "wb_cloudy"
+        },
+        {
+            "name": "Wb Incandescent",
+            "imagename": "wb_incandescent"
+        },
+        {
+            "name": "Wb Iridescent",
+            "imagename": "wb_iridescent"
+        },
+        {
+            "name": "Wb Shade",
+            "imagename": "wb_shade"
+        },
+        {
+            "name": "Wb Sunny",
+            "imagename": "wb_sunny"
+        },
+        {
+            "name": "Wb Twighlight",
+            "imagename": "wb_twighlight"
+        }
+    ]
+},
+{
+    "name": "Maps",
+    "icons": [
+        {
+            "name": "360",
+            "imagename": "360"
+        },
+        {
+            "name": "Add Business",
+            "imagename": "add_business"
+        },
+        {
+            "name": "Add Location",
+            "imagename": "add_location"
+        },
+        {
+            "name": "Add Location Alt",
+            "imagename": "add_location_alt"
+        },
+        {
+            "name": "Add Road",
+            "imagename": "add_road"
+        },
+        {
+            "name": "Agriculture",
+            "imagename": "agriculture"
+        },
+        {
+            "name": "Alt Route",
+            "imagename": "alt_route"
+        },
+        {
+            "name": "Atm",
+            "imagename": "atm"
+        },
+        {
+            "name": "Attractions",
+            "imagename": "attractions"
+        },
+        {
+            "name": "Badge",
+            "imagename": "badge"
+        },
+        {
+            "name": "Bakery Dining",
+            "imagename": "bakery_dining"
+        },
+        {
+            "name": "Beenhere",
+            "imagename": "beenhere"
+        },
+        {
+            "name": "Bike Scooter",
+            "imagename": "bike_scooter"
+        },
+        {
+            "name": "Breakfast Dining",
+            "imagename": "breakfast_dining"
+        },
+        {
+            "name": "Brunch Dining",
+            "imagename": "brunch_dining"
+        },
+        {
+            "name": "Bus Alert",
+            "imagename": "bus_alert"
+        },
+        {
+            "name": "Car Rental",
+            "imagename": "car_rental"
+        },
+        {
+            "name": "Car Repair",
+            "imagename": "car_repair"
+        },
+        {
+            "name": "Category",
+            "imagename": "category"
+        },
+        {
+            "name": "Celebration",
+            "imagename": "celebration"
+        },
+        {
+            "name": "Cleaning Services",
+            "imagename": "cleaning_services"
+        },
+        {
+            "name": "Compass Calibration",
+            "imagename": "compass_calibration"
+        },
+        {
+            "name": "Delivery Dining",
+            "imagename": "delivery_dining"
+        },
+        {
+            "name": "Departure Board",
+            "imagename": "departure_board"
+        },
+        {
+            "name": "Design Services",
+            "imagename": "design_services"
+        },
+        {
+            "name": "Dinner Dining",
+            "imagename": "dinner_dining"
+        },
+        {
+            "name": "Directions",
+            "imagename": "directions"
+        },
+        {
+            "name": "Directions Bike",
+            "imagename": "directions_bike"
+        },
+        {
+            "name": "Directions Boat",
+            "imagename": "directions_boat"
+        },
+        {
+            "name": "Directions Bus",
+            "imagename": "directions_bus"
+        },
+        {
+            "name": "Directions Car",
+            "imagename": "directions_car"
+        },
+        {
+            "name": "Directions Railway",
+            "imagename": "directions_railway"
+        },
+        {
+            "name": "Directions Run",
+            "imagename": "directions_run"
+        },
+        {
+            "name": "Directions Subway",
+            "imagename": "directions_subway"
+        },
+        {
+            "name": "Directions Transit",
+            "imagename": "directions_transit"
+        },
+        {
+            "name": "Directions Walk",
+            "imagename": "directions_walk"
+        },
+        {
+            "name": "Dry Cleaning",
+            "imagename": "dry_cleaning"
+        },
+        {
+            "name": "Edit Attributes",
+            "imagename": "edit_attributes"
+        },
+        {
+            "name": "Edit Location",
+            "imagename": "edit_location"
+        },
+        {
+            "name": "Edit Road",
+            "imagename": "edit_road"
+        },
+        {
+            "name": "Electrical Services",
+            "imagename": "electrical_services"
+        },
+        {
+            "name": "Electric Bike",
+            "imagename": "electric_bike"
+        },
+        {
+            "name": "Electric Car",
+            "imagename": "electric_car"
+        },
+        {
+            "name": "Electric Moped",
+            "imagename": "electric_moped"
+        },
+        {
+            "name": "Electric Rickshaw",
+            "imagename": "electric_rickshaw"
+        },
+        {
+            "name": "Electric Scooter",
+            "imagename": "electric_scooter"
+        },
+        {
+            "name": "Ev Station",
+            "imagename": "ev_station"
+        },
+        {
+            "name": "Fastfood",
+            "imagename": "fastfood"
+        },
+        {
+            "name": "Festival",
+            "imagename": "festival"
+        },
+        {
+            "name": "Flight",
+            "imagename": "flight"
+        },
+        {
+            "name": "Hail",
+            "imagename": "hail"
+        },
+        {
+            "name": "Handyman",
+            "imagename": "handyman"
+        },
+        {
+            "name": "Hardware",
+            "imagename": "hardware"
+        },
+        {
+            "name": "Home Repair Service",
+            "imagename": "home_repair_service"
+        },
+        {
+            "name": "Hotel",
+            "imagename": "hotel"
+        },
+        {
+            "name": "Hvac",
+            "imagename": "hvac"
+        },
+        {
+            "name": "Icecream",
+            "imagename": "icecream"
+        },
+        {
+            "name": "Layers",
+            "imagename": "layers"
+        },
+        {
+            "name": "Layers Clear",
+            "imagename": "layers_clear"
+        },
+        {
+            "name": "Liquor",
+            "imagename": "liquor"
+        },
+        {
+            "name": "Local Activity",
+            "imagename": "local_activity"
+        },
+        {
+            "name": "Local Airport",
+            "imagename": "local_airport"
+        },
+        {
+            "name": "Local Atm",
+            "imagename": "local_atm"
+        },
+        {
+            "name": "Local Bar",
+            "imagename": "local_bar"
+        },
+        {
+            "name": "Local Cafe",
+            "imagename": "local_cafe"
+        },
+        {
+            "name": "Local Car Wash",
+            "imagename": "local_car_wash"
+        },
+        {
+            "name": "Local Convenience Store",
+            "imagename": "local_convenience_store"
+        },
+        {
+            "name": "Local Dining",
+            "imagename": "local_dining"
+        },
+        {
+            "name": "Local Drink",
+            "imagename": "local_drink"
+        },
+        {
+            "name": "Local Fire Department",
+            "imagename": "local_fire_department"
+        },
+        {
+            "name": "Local Florist",
+            "imagename": "local_florist"
+        },
+        {
+            "name": "Local Gas Station",
+            "imagename": "local_gas_station"
+        },
+        {
+            "name": "Local Grocery Store",
+            "imagename": "local_grocery_store"
+        },
+        {
+            "name": "Local Hospital",
+            "imagename": "local_hospital"
+        },
+        {
+            "name": "Local Hotel",
+            "imagename": "local_hotel"
+        },
+        {
+            "name": "Local Laundry Service",
+            "imagename": "local_laundry_service"
+        },
+        {
+            "name": "Local Library",
+            "imagename": "local_library"
+        },
+        {
+            "name": "Local Mall",
+            "imagename": "local_mall"
+        },
+        {
+            "name": "Local Movies",
+            "imagename": "local_movies"
+        },
+        {
+            "name": "Local Offer",
+            "imagename": "local_offer"
+        },
+        {
+            "name": "Local Parking",
+            "imagename": "local_parking"
+        },
+        {
+            "name": "Local Pharmacy",
+            "imagename": "local_pharmacy"
+        },
+        {
+            "name": "Local Phone",
+            "imagename": "local_phone"
+        },
+        {
+            "name": "Local Pizza",
+            "imagename": "local_pizza"
+        },
+        {
+            "name": "Local Play",
+            "imagename": "local_play"
+        },
+        {
+            "name": "Local Police",
+            "imagename": "local_police"
+        },
+        {
+            "name": "Local Post Office",
+            "imagename": "local_post_office"
+        },
+        {
+            "name": "Local Printshop",
+            "imagename": "local_printshop"
+        },
+        {
+            "name": "Local See",
+            "imagename": "local_see"
+        },
+        {
+            "name": "Local Shipping",
+            "imagename": "local_shipping"
+        },
+        {
+            "name": "Local Taxi",
+            "imagename": "local_taxi"
+        },
+        {
+            "name": "Location Pin",
+            "imagename": "location_pin"
+        },
+        {
+            "name": "Lunch Dining",
+            "imagename": "lunch_dining"
+        },
+        {
+            "name": "Map",
+            "imagename": "map"
+        },
+        {
+            "name": "Maps Ugc",
+            "imagename": "maps_ugc"
+        },
+        {
+            "name": "Medical Services",
+            "imagename": "medical_services"
+        },
+        {
+            "name": "Menu Book",
+            "imagename": "menu_book"
+        },
+        {
+            "name": "Miscellaneous Services",
+            "imagename": "miscellaneous_services"
+        },
+        {
+            "name": "Money",
+            "imagename": "money"
+        },
+        {
+            "name": "Moped",
+            "imagename": "moped"
+        },
+        {
+            "name": "Multiple Stop",
+            "imagename": "multiple_stop"
+        },
+        {
+            "name": "Museum",
+            "imagename": "museum"
+        },
+        {
+            "name": "My Location",
+            "imagename": "my_location"
+        },
+        {
+            "name": "Navigation",
+            "imagename": "navigation"
+        },
+        {
+            "name": "Near Me",
+            "imagename": "near_me"
+        },
+        {
+            "name": "Near Me Disabled",
+            "imagename": "near_me_disabled"
+        },
+        {
+            "name": "Nightlife",
+            "imagename": "nightlife"
+        },
+        {
+            "name": "Not Listed Location",
+            "imagename": "not_listed_location"
+        },
+        {
+            "name": "No Meals",
+            "imagename": "no_meals"
+        },
+        {
+            "name": "No Meals Ouline",
+            "imagename": "no_meals_ouline"
+        },
+        {
+            "name": "No Transfer",
+            "imagename": "no_transfer"
+        },
+        {
+            "name": "Park",
+            "imagename": "park"
+        },
+        {
+            "name": "Pedal Bike",
+            "imagename": "pedal_bike"
+        },
+        {
+            "name": "Person Pin",
+            "imagename": "person_pin"
+        },
+        {
+            "name": "Person Pin Circle",
+            "imagename": "person_pin_circle"
+        },
+        {
+            "name": "Pest Control",
+            "imagename": "pest_control"
+        },
+        {
+            "name": "Pest Control Rodent",
+            "imagename": "pest_control_rodent"
+        },
+        {
+            "name": "Pin Drop",
+            "imagename": "pin_drop"
+        },
+        {
+            "name": "Place",
+            "imagename": "place"
+        },
+        {
+            "name": "Plumbing",
+            "imagename": "plumbing"
+        },
+        {
+            "name": "Railway Alert",
+            "imagename": "railway_alert"
+        },
+        {
+            "name": "Ramen Dining",
+            "imagename": "ramen_dining"
+        },
+        {
+            "name": "Rate Review",
+            "imagename": "rate_review"
+        },
+        {
+            "name": "Restaurant",
+            "imagename": "restaurant"
+        },
+        {
+            "name": "Restaurant Menu",
+            "imagename": "restaurant_menu"
+        },
+        {
+            "name": "Run Circle",
+            "imagename": "run_circle"
+        },
+        {
+            "name": "Satellite",
+            "imagename": "satellite"
+        },
+        {
+            "name": "Set Meal",
+            "imagename": "set_meal"
+        },
+        {
+            "name": "Store Mall Directory",
+            "imagename": "store_mall_directory"
+        },
+        {
+            "name": "Streetview",
+            "imagename": "streetview"
+        },
+        {
+            "name": "Subway",
+            "imagename": "subway"
+        },
+        {
+            "name": "Takeout Dining",
+            "imagename": "takeout_dining"
+        },
+        {
+            "name": "Taxi Alert",
+            "imagename": "taxi_alert"
+        },
+        {
+            "name": "Terrain",
+            "imagename": "terrain"
+        },
+        {
+            "name": "Theater Comedy",
+            "imagename": "theater_comedy"
+        },
+        {
+            "name": "Traffic",
+            "imagename": "traffic"
+        },
+        {
+            "name": "Train",
+            "imagename": "train"
+        },
+        {
+            "name": "Tram",
+            "imagename": "tram"
+        },
+        {
+            "name": "Transfer Within A Station",
+            "imagename": "transfer_within_a_station"
+        },
+        {
+            "name": "Transit Enterexit",
+            "imagename": "transit_enterexit"
+        },
+        {
+            "name": "Trip Origin",
+            "imagename": "trip_origin"
+        },
+        {
+            "name": "Two Wheeler",
+            "imagename": "two_wheeler"
+        },
+        {
+            "name": "Volunteer Activism",
+            "imagename": "volunteer_activism"
+        },
+        {
+            "name": "Wine Bar",
+            "imagename": "wine_bar"
+        },
+        {
+            "name": "Wrong Location",
+            "imagename": "wrong_location"
+        },
+        {
+            "name": "Zoom Out Map",
+            "imagename": "zoom_out_map"
+        }
+    ]
+},
+{
+    "name": "Navigation",
+    "icons": [
+        {
+            "name": "Apps",
+            "imagename": "apps"
+        },
+        {
+            "name": "App Settings Alt",
+            "imagename": "app_settings_alt"
+        },
+        {
+            "name": "Arrow Back",
+            "imagename": "arrow_back"
+        },
+        {
+            "name": "Arrow Back Ios",
+            "imagename": "arrow_back_ios"
+        },
+        {
+            "name": "Arrow Downward",
+            "imagename": "arrow_downward"
+        },
+        {
+            "name": "Arrow Drop Down",
+            "imagename": "arrow_drop_down"
+        },
+        {
+            "name": "Arrow Drop Down Circle",
+            "imagename": "arrow_drop_down_circle"
+        },
+        {
+            "name": "Arrow Drop Up",
+            "imagename": "arrow_drop_up"
+        },
+        {
+            "name": "Arrow Forward",
+            "imagename": "arrow_forward"
+        },
+        {
+            "name": "Arrow Forward Ios",
+            "imagename": "arrow_forward_ios"
+        },
+        {
+            "name": "Arrow Left",
+            "imagename": "arrow_left"
+        },
+        {
+            "name": "Arrow Right",
+            "imagename": "arrow_right"
+        },
+        {
+            "name": "Arrow Upward",
+            "imagename": "arrow_upward"
+        },
+        {
+            "name": "Assistant Direction",
+            "imagename": "assistant_direction"
+        },
+        {
+            "name": "Assistant Navigation",
+            "imagename": "assistant_navigation"
+        },
+        {
+            "name": "Campaign",
+            "imagename": "campaign"
+        },
+        {
+            "name": "Cancel",
+            "imagename": "cancel"
+        },
+        {
+            "name": "Check",
+            "imagename": "check"
+        },
+        {
+            "name": "Chevron Left",
+            "imagename": "chevron_left"
+        },
+        {
+            "name": "Chevron Right",
+            "imagename": "chevron_right"
+        },
+        {
+            "name": "Close",
+            "imagename": "close"
+        },
+        {
+            "name": "Double Arrow",
+            "imagename": "double_arrow"
+        },
+        {
+            "name": "East",
+            "imagename": "east"
+        },
+        {
+            "name": "Expand Less",
+            "imagename": "expand_less"
+        },
+        {
+            "name": "Expand More",
+            "imagename": "expand_more"
+        },
+        {
+            "name": "First Page",
+            "imagename": "first_page"
+        },
+        {
+            "name": "Fullscreen",
+            "imagename": "fullscreen"
+        },
+        {
+            "name": "Fullscreen Exit",
+            "imagename": "fullscreen_exit"
+        },
+        {
+            "name": "Home Work",
+            "imagename": "home_work"
+        },
+        {
+            "name": "Last Page",
+            "imagename": "last_page"
+        },
+        {
+            "name": "Legend Toggle",
+            "imagename": "legend_toggle"
+        },
+        {
+            "name": "Menu",
+            "imagename": "menu"
+        },
+        {
+            "name": "Menu Open",
+            "imagename": "menu_open"
+        },
+        {
+            "name": "More Horiz",
+            "imagename": "more_horiz"
+        },
+        {
+            "name": "More Vert",
+            "imagename": "more_vert"
+        },
+        {
+            "name": "North",
+            "imagename": "north"
+        },
+        {
+            "name": "North East",
+            "imagename": "north_east"
+        },
+        {
+            "name": "North West",
+            "imagename": "north_west"
+        },
+        {
+            "name": "Offline Share",
+            "imagename": "offline_share"
+        },
+        {
+            "name": "Payments",
+            "imagename": "payments"
+        },
+        {
+            "name": "Pivot Table Chart",
+            "imagename": "pivot_table_chart"
+        },
+        {
+            "name": "Refresh",
+            "imagename": "refresh"
+        },
+        {
+            "name": "South",
+            "imagename": "south"
+        },
+        {
+            "name": "South East",
+            "imagename": "south_east"
+        },
+        {
+            "name": "South West",
+            "imagename": "south_west"
+        },
+        {
+            "name": "Subdirectory Arrow Left",
+            "imagename": "subdirectory_arrow_left"
+        },
+        {
+            "name": "Subdirectory Arrow Right",
+            "imagename": "subdirectory_arrow_right"
+        },
+        {
+            "name": "Switch Left",
+            "imagename": "switch_left"
+        },
+        {
+            "name": "Switch Right",
+            "imagename": "switch_right"
+        },
+        {
+            "name": "Unfold Less",
+            "imagename": "unfold_less"
+        },
+        {
+            "name": "Unfold More",
+            "imagename": "unfold_more"
+        },
+        {
+            "name": "Waterfall Chart",
+            "imagename": "waterfall_chart"
+        },
+        {
+            "name": "West",
+            "imagename": "west"
+        }
+    ]
+},
+{
+    "name": "Notification",
+    "icons": [
+        {
+            "name": "Account Tree",
+            "imagename": "account_tree"
+        },
+        {
+            "name": "Adb",
+            "imagename": "adb"
+        },
+        {
+            "name": "Add Call",
+            "imagename": "add_call"
+        },
+        {
+            "name": "Airline Seat Individual Suite",
+            "imagename": "airline_seat_individual_suite"
+        },
+        {
+            "name": "Airline Seat Legroom Extra",
+            "imagename": "airline_seat_legroom_extra"
+        },
+        {
+            "name": "Airline Seat Legroom Normal",
+            "imagename": "airline_seat_legroom_normal"
+        },
+        {
+            "name": "Airline Seat Legroom Reduced",
+            "imagename": "airline_seat_legroom_reduced"
+        },
+        {
+            "name": "Airline Seat Recline Extra",
+            "imagename": "airline_seat_recline_extra"
+        },
+        {
+            "name": "Airline Seat Recline Normal",
+            "imagename": "airline_seat_recline_normal"
+        },
+        {
+            "name": "Bluetooth Audio",
+            "imagename": "bluetooth_audio"
+        },
+        {
+            "name": "Confirmation Number",
+            "imagename": "confirmation_number"
+        },
+        {
+            "name": "Directions Off",
+            "imagename": "directions_off"
+        },
+        {
+            "name": "Disc Full",
+            "imagename": "disc_full"
+        },
+        {
+            "name": "Do Disturb",
+            "imagename": "do_disturb"
+        },
+        {
+            "name": "Do Disturb Alt",
+            "imagename": "do_disturb_alt"
+        },
+        {
+            "name": "Do Disturb Off",
+            "imagename": "do_disturb_off"
+        },
+        {
+            "name": "Do Disturb On",
+            "imagename": "do_disturb_on"
+        },
+        {
+            "name": "Do Not Disturb",
+            "imagename": "do_not_disturb"
+        },
+        {
+            "name": "Do Not Disturb Alt",
+            "imagename": "do_not_disturb_alt"
+        },
+        {
+            "name": "Do Not Disturb Off",
+            "imagename": "do_not_disturb_off"
+        },
+        {
+            "name": "Do Not Disturb On",
+            "imagename": "do_not_disturb_on"
+        },
+        {
+            "name": "Drive Eta",
+            "imagename": "drive_eta"
+        },
+        {
+            "name": "Enhanced Encryption",
+            "imagename": "enhanced_encryption"
+        },
+        {
+            "name": "Event Available",
+            "imagename": "event_available"
+        },
+        {
+            "name": "Event Busy",
+            "imagename": "event_busy"
+        },
+        {
+            "name": "Event Note",
+            "imagename": "event_note"
+        },
+        {
+            "name": "Folder Special",
+            "imagename": "folder_special"
+        },
+        {
+            "name": "Imagesearch Roller",
+            "imagename": "imagesearch_roller"
+        },
+        {
+            "name": "Live Tv",
+            "imagename": "live_tv"
+        },
+        {
+            "name": "Mms",
+            "imagename": "mms"
+        },
+        {
+            "name": "More",
+            "imagename": "more"
+        },
+        {
+            "name": "Network Check",
+            "imagename": "network_check"
+        },
+        {
+            "name": "Network Locked",
+            "imagename": "network_locked"
+        },
+        {
+            "name": "No Encryption",
+            "imagename": "no_encryption"
+        },
+        {
+            "name": "No Encryption Gmailerrorred",
+            "imagename": "no_encryption_gmailerrorred"
+        },
+        {
+            "name": "Ondemand Video",
+            "imagename": "ondemand_video"
+        },
+        {
+            "name": "Personal Video",
+            "imagename": "personal_video"
+        },
+        {
+            "name": "Phone Bluetooth Speaker",
+            "imagename": "phone_bluetooth_speaker"
+        },
+        {
+            "name": "Phone Callback",
+            "imagename": "phone_callback"
+        },
+        {
+            "name": "Phone Forwarded",
+            "imagename": "phone_forwarded"
+        },
+        {
+            "name": "Phone In Talk",
+            "imagename": "phone_in_talk"
+        },
+        {
+            "name": "Phone Locked",
+            "imagename": "phone_locked"
+        },
+        {
+            "name": "Phone Missed",
+            "imagename": "phone_missed"
+        },
+        {
+            "name": "Phone Paused",
+            "imagename": "phone_paused"
+        },
+        {
+            "name": "Power",
+            "imagename": "power"
+        },
+        {
+            "name": "Power Off",
+            "imagename": "power_off"
+        },
+        {
+            "name": "Priority High",
+            "imagename": "priority_high"
+        },
+        {
+            "name": "Sd Card",
+            "imagename": "sd_card"
+        },
+        {
+            "name": "Sd Card Alert",
+            "imagename": "sd_card_alert"
+        },
+        {
+            "name": "Sim Card Alert",
+            "imagename": "sim_card_alert"
+        },
+        {
+            "name": "Sms",
+            "imagename": "sms"
+        },
+        {
+            "name": "Sms Failed",
+            "imagename": "sms_failed"
+        },
+        {
+            "name": "Support Agent",
+            "imagename": "support_agent"
+        },
+        {
+            "name": "Sync",
+            "imagename": "sync"
+        },
+        {
+            "name": "Sync Disabled",
+            "imagename": "sync_disabled"
+        },
+        {
+            "name": "Sync Problem",
+            "imagename": "sync_problem"
+        },
+        {
+            "name": "System Update",
+            "imagename": "system_update"
+        },
+        {
+            "name": "Tap And Play",
+            "imagename": "tap_and_play"
+        },
+        {
+            "name": "Time To Leave",
+            "imagename": "time_to_leave"
+        },
+        {
+            "name": "Tv Off",
+            "imagename": "tv_off"
+        },
+        {
+            "name": "Vibration",
+            "imagename": "vibration"
+        },
+        {
+            "name": "Voice Chat",
+            "imagename": "voice_chat"
+        },
+        {
+            "name": "Vpn Lock",
+            "imagename": "vpn_lock"
+        },
+        {
+            "name": "Wc",
+            "imagename": "wc"
+        },
+        {
+            "name": "Wifi",
+            "imagename": "wifi"
+        },
+        {
+            "name": "Wifi Off",
+            "imagename": "wifi_off"
+        }
+    ]
+},
+{
+    "name": "Places",
+    "icons": [
+        {
+            "name": "Ac Unit",
+            "imagename": "ac_unit"
+        },
+        {
+            "name": "Airport Shuttle",
+            "imagename": "airport_shuttle"
+        },
+        {
+            "name": "All Inclusive",
+            "imagename": "all_inclusive"
+        },
+        {
+            "name": "Apartment",
+            "imagename": "apartment"
+        },
+        {
+            "name": "Baby Changing Station",
+            "imagename": "baby_changing_station"
+        },
+        {
+            "name": "Backpack",
+            "imagename": "backpack"
+        },
+        {
+            "name": "Bathtub",
+            "imagename": "bathtub"
+        },
+        {
+            "name": "Beach Access",
+            "imagename": "beach_access"
+        },
+        {
+            "name": "Bento",
+            "imagename": "bento"
+        },
+        {
+            "name": "Business Center",
+            "imagename": "business_center"
+        },
+        {
+            "name": "Carpenter",
+            "imagename": "carpenter"
+        },
+        {
+            "name": "Casino",
+            "imagename": "casino"
+        },
+        {
+            "name": "Charging Station",
+            "imagename": "charging_station"
+        },
+        {
+            "name": "Checkroom",
+            "imagename": "checkroom"
+        },
+        {
+            "name": "Child Care",
+            "imagename": "child_care"
+        },
+        {
+            "name": "Child Friendly",
+            "imagename": "child_friendly"
+        },
+        {
+            "name": "Corporate Fare",
+            "imagename": "corporate_fare"
+        },
+        {
+            "name": "Countertops",
+            "imagename": "countertops"
+        },
+        {
+            "name": "Do Not Step",
+            "imagename": "do_not_step"
+        },
+        {
+            "name": "Do Not Touch",
+            "imagename": "do_not_touch"
+        },
+        {
+            "name": "Dry",
+            "imagename": "dry"
+        },
+        {
+            "name": "Elevator",
+            "imagename": "elevator"
+        },
+        {
+            "name": "Escalator",
+            "imagename": "escalator"
+        },
+        {
+            "name": "Escalator Warning",
+            "imagename": "escalator_warning"
+        },
+        {
+            "name": "Family Restroom",
+            "imagename": "family_restroom"
+        },
+        {
+            "name": "Fence",
+            "imagename": "fence"
+        },
+        {
+            "name": "Fire Extinguisher",
+            "imagename": "fire_extinguisher"
+        },
+        {
+            "name": "Fitness Center",
+            "imagename": "fitness_center"
+        },
+        {
+            "name": "Food Bank",
+            "imagename": "food_bank"
+        },
+        {
+            "name": "Foundation",
+            "imagename": "foundation"
+        },
+        {
+            "name": "Free Breakfast",
+            "imagename": "free_breakfast"
+        },
+        {
+            "name": "Golf Course",
+            "imagename": "golf_course"
+        },
+        {
+            "name": "Grass",
+            "imagename": "grass"
+        },
+        {
+            "name": "Hot Tub",
+            "imagename": "hot_tub"
+        },
+        {
+            "name": "House",
+            "imagename": "house"
+        },
+        {
+            "name": "House Siding",
+            "imagename": "house_siding"
+        },
+        {
+            "name": "Kitchen",
+            "imagename": "kitchen"
+        },
+        {
+            "name": "Meeting Room",
+            "imagename": "meeting_room"
+        },
+        {
+            "name": "Microwave",
+            "imagename": "microwave"
+        },
+        {
+            "name": "Night Shelter",
+            "imagename": "night_shelter"
+        },
+        {
+            "name": "No Backpack",
+            "imagename": "no_backpack"
+        },
+        {
+            "name": "No Cell",
+            "imagename": "no_cell"
+        },
+        {
+            "name": "No Drinks",
+            "imagename": "no_drinks"
+        },
+        {
+            "name": "No Flash",
+            "imagename": "no_flash"
+        },
+        {
+            "name": "No Food",
+            "imagename": "no_food"
+        },
+        {
+            "name": "No Meeting Room",
+            "imagename": "no_meeting_room"
+        },
+        {
+            "name": "No Photography",
+            "imagename": "no_photography"
+        },
+        {
+            "name": "No Stroller",
+            "imagename": "no_stroller"
+        },
+        {
+            "name": "Pool",
+            "imagename": "pool"
+        },
+        {
+            "name": "Rice Bowl",
+            "imagename": "rice_bowl"
+        },
+        {
+            "name": "Roofing",
+            "imagename": "roofing"
+        },
+        {
+            "name": "Room Preferences",
+            "imagename": "room_preferences"
+        },
+        {
+            "name": "Room Service",
+            "imagename": "room_service"
+        },
+        {
+            "name": "Rv Hookup",
+            "imagename": "rv_hookup"
+        },
+        {
+            "name": "Smoke Free",
+            "imagename": "smoke_free"
+        },
+        {
+            "name": "Smoking Rooms",
+            "imagename": "smoking_rooms"
+        },
+        {
+            "name": "Soap",
+            "imagename": "soap"
+        },
+        {
+            "name": "Spa",
+            "imagename": "spa"
+        },
+        {
+            "name": "Sports Bar",
+            "imagename": "sports_bar"
+        },
+        {
+            "name": "Stairs",
+            "imagename": "stairs"
+        },
+        {
+            "name": "Storefront",
+            "imagename": "storefront"
+        },
+        {
+            "name": "Stroller",
+            "imagename": "stroller"
+        },
+        {
+            "name": "Tapas",
+            "imagename": "tapas"
+        },
+        {
+            "name": "Tty",
+            "imagename": "tty"
+        },
+        {
+            "name": "Umbrella",
+            "imagename": "umbrella"
+        },
+        {
+            "name": "Wash",
+            "imagename": "wash"
+        },
+        {
+            "name": "Water Damage",
+            "imagename": "water_damage"
+        },
+        {
+            "name": "Wheelchair Pickup",
+            "imagename": "wheelchair_pickup"
+        }
+    ]
+},
+{
+    "name": "Social",
+    "icons": [
+        {
+            "name": "6 Ft Apart",
+            "imagename": "6_ft_apart"
+        },
+        {
+            "name": "Add Moderator",
+            "imagename": "add_moderator"
+        },
+        {
+            "name": "Architecture",
+            "imagename": "architecture"
+        },
+        {
+            "name": "Cake",
+            "imagename": "cake"
+        },
+        {
+            "name": "Clean Hands",
+            "imagename": "clean_hands"
+        },
+        {
+            "name": "Connect Without Contact",
+            "imagename": "connect_without_contact"
+        },
+        {
+            "name": "Construction",
+            "imagename": "construction"
+        },
+        {
+            "name": "Coronavirus",
+            "imagename": "coronavirus"
+        },
+        {
+            "name": "Deck",
+            "imagename": "deck"
+        },
+        {
+            "name": "Domain",
+            "imagename": "domain"
+        },
+        {
+            "name": "Elderly",
+            "imagename": "elderly"
+        },
+        {
+            "name": "Emoji Emotions",
+            "imagename": "emoji_emotions"
+        },
+        {
+            "name": "Emoji Events",
+            "imagename": "emoji_events"
+        },
+        {
+            "name": "Emoji Flags",
+            "imagename": "emoji_flags"
+        },
+        {
+            "name": "Emoji Food Beverage",
+            "imagename": "emoji_food_beverage"
+        },
+        {
+            "name": "Emoji Nature",
+            "imagename": "emoji_nature"
+        },
+        {
+            "name": "Emoji Objects",
+            "imagename": "emoji_objects"
+        },
+        {
+            "name": "Emoji People",
+            "imagename": "emoji_people"
+        },
+        {
+            "name": "Emoji Symbols",
+            "imagename": "emoji_symbols"
+        },
+        {
+            "name": "Emoji Transportation",
+            "imagename": "emoji_transportation"
+        },
+        {
+            "name": "Engineering",
+            "imagename": "engineering"
+        },
+        {
+            "name": "Facebook",
+            "imagename": "facebook"
+        },
+        {
+            "name": "Fireplace",
+            "imagename": "fireplace"
+        },
+        {
+            "name": "Follow The Signs",
+            "imagename": "follow_the_signs"
+        },
+        {
+            "name": "Group",
+            "imagename": "group"
+        },
+        {
+            "name": "Groups",
+            "imagename": "groups"
+        },
+        {
+            "name": "Group Add",
+            "imagename": "group_add"
+        },
+        {
+            "name": "History Edu",
+            "imagename": "history_edu"
+        },
+        {
+            "name": "Ios Share",
+            "imagename": "ios_share"
+        },
+        {
+            "name": "King Bed",
+            "imagename": "king_bed"
+        },
+        {
+            "name": "Location City",
+            "imagename": "location_city"
+        },
+        {
+            "name": "Luggage",
+            "imagename": "luggage"
+        },
+        {
+            "name": "Masks",
+            "imagename": "masks"
+        },
+        {
+            "name": "Military Tech",
+            "imagename": "military_tech"
+        },
+        {
+            "name": "Mood",
+            "imagename": "mood"
+        },
+        {
+            "name": "Mood Bad",
+            "imagename": "mood_bad"
+        },
+        {
+            "name": "Nights Stay",
+            "imagename": "nights_stay"
+        },
+        {
+            "name": "Notifications",
+            "imagename": "notifications"
+        },
+        {
+            "name": "Notifications Active",
+            "imagename": "notifications_active"
+        },
+        {
+            "name": "Notifications None",
+            "imagename": "notifications_none"
+        },
+        {
+            "name": "Notifications Off",
+            "imagename": "notifications_off"
+        },
+        {
+            "name": "Notifications Paused",
+            "imagename": "notifications_paused"
+        },
+        {
+            "name": "No Luggage",
+            "imagename": "no_luggage"
+        },
+        {
+            "name": "Outdoor Grill",
+            "imagename": "outdoor_grill"
+        },
+        {
+            "name": "Pages",
+            "imagename": "pages"
+        },
+        {
+            "name": "Party Mode",
+            "imagename": "party_mode"
+        },
+        {
+            "name": "People",
+            "imagename": "people"
+        },
+        {
+            "name": "People Alt",
+            "imagename": "people_alt"
+        },
+        {
+            "name": "People Outline",
+            "imagename": "people_outline"
+        },
+        {
+            "name": "Person",
+            "imagename": "person"
+        },
+        {
+            "name": "Person Add",
+            "imagename": "person_add"
+        },
+        {
+            "name": "Person Add Alt",
+            "imagename": "person_add_alt"
+        },
+        {
+            "name": "Person Add Alt 1",
+            "imagename": "person_add_alt_1"
+        },
+        {
+            "name": "Person Outline",
+            "imagename": "person_outline"
+        },
+        {
+            "name": "Person Remove",
+            "imagename": "person_remove"
+        },
+        {
+            "name": "Person Remove Alt 1",
+            "imagename": "person_remove_alt_1"
+        },
+        {
+            "name": "Plus One",
+            "imagename": "plus_one"
+        },
+        {
+            "name": "Poll",
+            "imagename": "poll"
+        },
+        {
+            "name": "Precision Manufacturing",
+            "imagename": "precision_manufacturing"
+        },
+        {
+            "name": "Psychology",
+            "imagename": "psychology"
+        },
+        {
+            "name": "Public",
+            "imagename": "public"
+        },
+        {
+            "name": "Public Off",
+            "imagename": "public_off"
+        },
+        {
+            "name": "Recommend",
+            "imagename": "recommend"
+        },
+        {
+            "name": "Reduce Capacity",
+            "imagename": "reduce_capacity"
+        },
+        {
+            "name": "Remove Moderator",
+            "imagename": "remove_moderator"
+        },
+        {
+            "name": "Sanitizer",
+            "imagename": "sanitizer"
+        },
+        {
+            "name": "School",
+            "imagename": "school"
+        },
+        {
+            "name": "Science",
+            "imagename": "science"
+        },
+        {
+            "name": "Self Improvement",
+            "imagename": "self_improvement"
+        },
+        {
+            "name": "Sentiment Dissatisfied",
+            "imagename": "sentiment_dissatisfied"
+        },
+        {
+            "name": "Sentiment Neutral",
+            "imagename": "sentiment_neutral"
+        },
+        {
+            "name": "Sentiment Satisfied",
+            "imagename": "sentiment_satisfied"
+        },
+        {
+            "name": "Sentiment Very Dissatisfied",
+            "imagename": "sentiment_very_dissatisfied"
+        },
+        {
+            "name": "Sentiment Very Satisfied",
+            "imagename": "sentiment_very_satisfied"
+        },
+        {
+            "name": "Share",
+            "imagename": "share"
+        },
+        {
+            "name": "Sick",
+            "imagename": "sick"
+        },
+        {
+            "name": "Single Bed",
+            "imagename": "single_bed"
+        },
+        {
+            "name": "Sports",
+            "imagename": "sports"
+        },
+        {
+            "name": "Sports Baseball",
+            "imagename": "sports_baseball"
+        },
+        {
+            "name": "Sports Basketball",
+            "imagename": "sports_basketball"
+        },
+        {
+            "name": "Sports Cricket",
+            "imagename": "sports_cricket"
+        },
+        {
+            "name": "Sports Esports",
+            "imagename": "sports_esports"
+        },
+        {
+            "name": "Sports Football",
+            "imagename": "sports_football"
+        },
+        {
+            "name": "Sports Golf",
+            "imagename": "sports_golf"
+        },
+        {
+            "name": "Sports Handball",
+            "imagename": "sports_handball"
+        },
+        {
+            "name": "Sports Hockey",
+            "imagename": "sports_hockey"
+        },
+        {
+            "name": "Sports Kabaddi",
+            "imagename": "sports_kabaddi"
+        },
+        {
+            "name": "Sports Mma",
+            "imagename": "sports_mma"
+        },
+        {
+            "name": "Sports Motorsports",
+            "imagename": "sports_motorsports"
+        },
+        {
+            "name": "Sports Rugby",
+            "imagename": "sports_rugby"
+        },
+        {
+            "name": "Sports Soccer",
+            "imagename": "sports_soccer"
+        },
+        {
+            "name": "Sports Tennis",
+            "imagename": "sports_tennis"
+        },
+        {
+            "name": "Sports Volleyball",
+            "imagename": "sports_volleyball"
+        },
+        {
+            "name": "Switch Account",
+            "imagename": "switch_account"
+        },
+        {
+            "name": "Thumb Down Alt",
+            "imagename": "thumb_down_alt"
+        },
+        {
+            "name": "Thumb Up Alt",
+            "imagename": "thumb_up_alt"
+        },
+        {
+            "name": "Whatshot",
+            "imagename": "whatshot"
+        }
+    ]
+},
+{
+    "name": "Toggle",
+    "icons": [
+        {
+            "name": "Check Box",
+            "imagename": "check_box"
+        },
+        {
+            "name": "Check Box Outline Blank",
+            "imagename": "check_box_outline_blank"
+        },
+        {
+            "name": "Indeterminate Check Box",
+            "imagename": "indeterminate_check_box"
+        },
+        {
+            "name": "Radio Button Checked",
+            "imagename": "radio_button_checked"
+        },
+        {
+            "name": "Radio Button Unchecked",
+            "imagename": "radio_button_unchecked"
+        },
+        {
+            "name": "Star",
+            "imagename": "star"
+        },
+        {
+            "name": "Star Border",
+            "imagename": "star_border"
+        },
+        {
+            "name": "Star Half",
+            "imagename": "star_half"
+        },
+        {
+            "name": "Star Outline",
+            "imagename": "star_outline"
+        },
+        {
+            "name": "Toggle Off",
+            "imagename": "toggle_off"
+        },
+        {
+            "name": "Toggle On",
+            "imagename": "toggle_on"
+        }
+    ]
+}]}

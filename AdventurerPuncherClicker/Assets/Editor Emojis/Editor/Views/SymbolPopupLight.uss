@@ -1,0 +1,12 @@
+﻿:root
+{
+    --search-bar-background: rgb(160, 160, 160);
+    --background: rgb(182, 182, 182);
+    --button-hover: rgb(160, 160, 160);
+    --button-active: rgb(120,120,120);
+    --inactive-text: rgb(120,120,120);
+    --active-text: rgb(15, 15, 15);
+    --divider-color: rgb(160, 160, 160);
+    --border: rgb(140, 140, 140);
+
+}

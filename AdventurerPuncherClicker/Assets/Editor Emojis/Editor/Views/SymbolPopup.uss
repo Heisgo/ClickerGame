@@ -1,0 +1,236 @@
+.tab-button {
+    margin: 0;
+    background-color: transparent;
+    border-width: 0;
+    border-radius: 0;
+    font-size: 10px;
+    color: var(--inactive-text);
+    padding: 4px 5px;
+}
+
+.tab-button:hover {
+    background-color: var(--button-hover);
+}
+
+.active-tab {
+    color: var(--active-text);
+    border-bottom-color: var(--active-text);
+    border-bottom-width: 1px;
+}
+
+.divider {
+    height: 1px;
+    background-color: var(--divider-color);
+}
+
+.search-bar-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: nowrap;
+}
+
+.search-bar {
+    flex-grow: 1;
+    border-color: var(--border);
+    height: 20px;
+    background-color: var(--search-bar-background);
+}
+
+.search-bar #unity-search {
+    background-image: url('project://database/Assets/Editor%20Emojis/Editor/EditorWindow/search_icon.png?fileID=2800000&guid=a25cf7e4f9576c747beac362406f1bab&type=3#search_icon');
+    width: 10px;
+    height: 10px;
+    margin-left: 3px;
+    opacity: 0.3;
+    background-color: var(--search-bar-background);
+}
+
+.search-bar TextField #unity-text-input {
+    color: var(--inactive-text);
+    background-color: var(--search-bar-background);
+    width: 100%;
+}
+
+.search-button {
+    background-image: none;
+    -unity-background-scale-mode: scale-and-crop;
+    border-color: var(--border);
+    background-color: var(--background);
+    width: 20px;
+    height: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.search-button:hover {
+    background-color: var(--button-hover);
+}
+
+.color-picker-popup {
+    background-color: var(--background);
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    top: 67px;
+    left: 177px;
+    border-width: 1px;
+    border-color: var(--border);
+    border-radius: 3px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    white-space: normal;
+}
+
+.color-select-button {
+    background-color: transparent;
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    border-width: 0;
+}
+
+.color-select-button:hover {
+    background-color: var(--button-hover);
+}
+
+.color-picker-row {
+    flex-direction: row;
+    flex-grow: 1;
+    width: 100%;
+    align-items: center;
+}
+
+.color-select-button-icon {
+    width: 10px;
+    height: 10px;
+    -unity-background-scale-mode: scale-and-crop;
+    border-radius: 6px;
+}
+
+.subtitle-label {
+    color: var(--inactive-text);
+    -unity-font-style: bold;
+    -unity-text-align: middle-center;
+}
+
+.symbol-image {
+    width: 28px;
+    height: 28px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 2px;
+    background-color: transparent;
+}
+
+.symbol-image:hover {
+    background-color: var(--button-hover);
+    border-radius: 4px;
+}
+
+.symbol-image:active {
+    background-color: var(--button-active);
+}
+
+.unity-list-view {
+    background-color: transparent;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.unity-list-view .unity-scroll-view {
+    width: 100%;
+    padding-left: 5px;
+}
+
+#unity-content-container{
+    overflow: visible;
+}
+
+.unity-list-view__item {
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:30px;
+}
+
+.unity-collection-view__item {
+    height:30px;
+}
+
+.unity-list-view__item:hover {
+    background-color: transparent;
+}
+
+.unity-list-view__item:focus {
+    background-color: transparent;
+}
+
+.unity-list-view__item:active {
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+}
+
+.symbol-row-container {
+    background-color: transparent;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.symbol-row-container:hover {
+    background-color: transparent;
+}
+
+.symbol-row-container:active {
+    background-color: transparent;
+}
+
+.symbol-row-container:focus {
+    background-color: transparent;
+}
+
+.settings-container {
+    position: absolute;
+    width: 300px;
+    height: 240px;
+    background-color: var(--background);
+    top: 30px;
+    align-items: stretch;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    left: 0;
+}
+
+.settings-container .unity-toggle {
+    margin-bottom: 10px;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.settings-toggle {
+}
